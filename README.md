@@ -1,370 +1,396 @@
-# 🌌 Ultimate Classic → Pre-TBC → TBC Transition Guide  
-## Ahhotep 🏹 – Hatschepsut 🔮 – Meretseger ⚔️
+# World of Warcraft – The Burning Crusade Classic (Patch 2.5.x)
+# PvE Komplettguide – Alliance
+# Hunter · Shadow Priest · Paladin (Retribution / Protection / Holy)
 
-Ein kompletter, ausführlicher Premium-Guide für **WoW Classic Anniversary → TBC Release**.  
-Jede Klasse erklärt mit:  
-- Talent-Begründungen  
-- Rotation-Begründungen  
-- Stats-Scaling Erklärungen  
-- Consumables & Berufe mit Warum-Erklärung  
-- Endgame-Boss-Mechaniken  
-- Vorbereitung auf TBC  
-- Warum Meta sich ändert  
+================================================================================
+HUNTER
+================================================================================
 
----
-
-# 📑 Inhaltsverzeichnis
-
-## 🏹 Kapitel 1 — Ahhotep (Hunter)
-- [Warum Marksmanship in Classic](#warum-marksmanship-in-classic)
-- [Talente und Mechanik-Begründung](#talente-und-mechanik-begründung)
-- [Stat-Priorität und Warum](#stat-priorität-und-warum)
-- [Single-Target-Rotation](#single-target-rotation)
-- [Multi-Target-Rotation--aoe-cleave](#multi-target-rotation--aoe-cleave)
-- [Consumables und Warum](#consumables-und-warum)
-- [Engineering-Synergien](#engineering-synergien)
-- [Schwierige Boss-Mechaniken](#schwierige-boss-mechaniken)
-  - [Sapphiron](#sapphiron)
-  - [Kelthuzad](#kelthuzad)
-- [Pre-TBC Skalierung](#pre-tbc-skalierung)
-- [Warum Beastmaster BiS in TBC ist](#warum-beastmaster-bis-in-tbc-ist)
-- [Dungeon-Dominanz durch Pet-Scaling](#dungeon-dominanz-durch-pet-scaling)
-
----
-
-## 🧠 Kapitel 2 — Hatschepsut (Shadow Priest)
-- [Warum Shadow wichtig ist](#warum-shadow-wichtig-ist)
-- [Talente und Shadow-Weaving](#talente-und-shadow-weaving)
-- [Stat-Priorität](#stat-priorität)
-- [Rotation und Effizienz-Begründung](#rotation-und-effizienz-begründung)
-- [Consumables für Sustain](#consumables-für-sustain)
-- [Schwierige Boss-Mechaniken](#schwierige-boss-mechaniken-1)
-  - [Kelthuzad](#kelthuzad-1)
-  - [Loatheb](#loatheb)
-- [Pre-TBC Skalierung](#pre-tbc-skalierung-1)
-- [Warum Shadow in TBC Pflicht wird](#warum-shadow-in-tbc-pflicht-wird)
-- [Dungeon-Meta und Utility](#dungeon-meta-und-utility)
-
----
-
-## ⚔️ Kapitel 3 — Meretseger (Retribution Paladin)
-- [Warum Ret in Classic nicht Meta ist](#warum-ret-in-classic-nicht-meta-ist)
-- [Warum Ret beim Leveln OP ist](#warum-ret-beim-leveln-op-ist)
-- [Seal-of-Command und Waffentempo](#seal-of-command-und-waffentempo)
-- [Rotation und Auto-Attack-Mechanik](#rotation-und-auto-attack-mechanik)
-- [Dungeon-Utility](#dungeon-utility)
-- [Waffen-Progression](#waffen-progression)
-- [Schwierige Boss-Mechaniken](#schwierige-boss-mechaniken-2)
-  - [Sapphiron](#sapphiron-2)
-  - [Four-Horsemen](#four-horsemen)
-  - [Kelthuzad](#kelthuzad-2)
-- [Pre-TBC Kraftsprung](#pre-tbc-kraftsprung)
-- [Warum Ret TBC-Dungeons carried](#warum-ret-tbc-dungeons-carried)
-- [Seal-Twisting erklärt](#seal-twisting-erklärt)
-- [Berufe Mining + Blacksmith](#berufe-mining--blacksmith)
-- [TBC-Raidrolle](#tbc-raidrolle)
-
----
-
-## 🧩 Abschluss
-- [Synergie aller drei Klassen](#synergie-aller-drei-klassen)
-- [Berufs-Ökonomie](#berufs-ökonomie)
-- [Endresultat](#endresultat)
-
----
-
-# 🏹 Warum Marksmanship in Classic
-Marksmanship ist in Classic BiS, weil **Ranged Weapon Damage + Crit Scaling** den gesamten Hunter-Output bestimmt.  
-Auto-Shots haben **normale Schadensmultiplikatoren**, und Crits aktivieren **Ranged Dead Zone Burst**.  
-
-Warum nicht Beastmaster?  
-Weil Pets in Classic **kaum skalieren**, kein AP-Scaling erhalten und bei Boss-Mechaniken sterben.  
-Also: **MM = Burst, Control, keine Abhängigkeit.**
-
----
-
-# 🏹 Talente und Mechanik-Begründung
-Du skillst in MM hauptsächlich:  
-
-**+Ranged AP, +Crit, +Aimed Shot, +Multi-Shot**  
-Diese Talente sind *Multiplikatoren* und kein linearer Bonus – deshalb sind sie BiS.
-
----
-
-# 🏹 Stat-Priorität und Warum
-1. Ranged Weapon Damage  
-2. Hit Cap (8%)  
-3. Crit  
-4. Agility  
-
-Warum?  
-Weil **Auto-Shot %-Multiplikatoren** jeden Punkt verstärken.
-
----
-
-# 🏹 Single-Target Rotation
-- Auto-Shot (nicht canceln!)
-- Aimed Shot
+CORE SKILLS (IMMER)
+- Auto Shot
+- Steady Shot
 - Multi-Shot
-- Feign Death zum Threat Reset
+- Kill Command
+- Bestial Wrath
 
-Warum?  
-Weil alles daran hängt, Auto-Shots **nicht zu clippen.**
+NICHT BENUTZEN
+- Arcane Shot (Mana ineffizient)
+- Serpent Sting im Raid
+- Raptor Strike (PvE irrelevant)
 
----
+ROTATION
 
-# 🏹 Multi-Target Rotation – AOE Cleave
-- Rapid Fire
-- Multi-Shot auf CD
-- Je nach Packs Explosives (Engineering)
+SOLO
+Auto Shot → Steady Shot → Multi-Shot (bei mehreren Mobs)
 
-Warum?  
-Mehr Ziele = mehr Multi-Shot Wert.
+DUNGEONS
+Multi-Shot → Steady Shot Spam  
+Kill Command bei Proc
 
----
+RAIDS
+Steady Shot Spam  
+Kill Command bei Proc  
+Bestial Wrath on Cooldown  
+Aspect of the Viper bei Mana-Problemen
 
-# 🏹 Consumables und Warum
-- Elixir of the Mongoose → Crit + Agility = Auto-Shot Push
-- Grilled Squid → +10 Agility
-- Juju Might / Power → Physischer Multiplikator
+ASPECTS
+- SOLO: Aspect of the Hawk
+- DUNGEON: Aspect of the Hawk
+- RAID: Hawk / Viper (Mana)
 
-Warum?  
-Hunter skalieren **zu fast 80% mit Crit/Agility.**
+GEAR UPGRADE PFAD
 
----
+PHASE 1 (PRE-RAID / DUNGEONS)
+- Beast Lord Set (Underbog / Steamvault / Shattered Halls / Shadow Labyrinth)
+- Ranged: Sunfury Bow (The Mechanar)
+- Trinket: Hourglass of the Unraveller (Black Morass)
 
-# 🏹 Engineering-Synergien
-Sapper Charges, Goblin Zapper, Grenades.  
-Warum?  
-Weil du so **Burst auf AOE** bekommst, was Hunter sonst nicht hat.
+PHASE 2
+- Serpent Spine Longbow (Gruul)
+- Dragonspine Trophy (Gruul)
 
----
+PHASE 3
+- T5 Hunter Set (Serpentshrine Cavern / Tempest Keep)
+- Bow of the Phoenix (Tempest Keep)
 
-# 🏹 Schwierige Boss-Mechaniken
+PHASE 4
+- Vengeful Gladiator Offset (PvE brauchbar)
+- Madness of the Betrayer (Black Temple)
 
-### 🧊 Sapphiron
-- Frost-Aura → Range bleiben
-- Pet stirbt fast sicher
+PHASE 5
+- Thori'dal, the Stars' Fury (Sunwell Plateau)
+- T6 Set (Hyjal / Black Temple)
 
-Warum?  
-Pet-Loss = kein DPS Verlust.
+================================================================================
+SHADOW PRIEST
+================================================================================
 
-### 👑 Kel’Thuzad
-- Threat reset → Feign Death benutzen
-- Adds in Phase 3 → Multishot cleave
+CORE SKILLS (IMMER)
+- Shadowform
+- Vampiric Touch
+- Shadow Word: Pain
+- Mind Blast
+- Mind Flay
 
-Warum?  
-Hunter kann **resetten**, andere nicht.
+NICHT BENUTZEN
+- Smite
+- Holy Fire
+- Power Word: Shield im Raid (Mana-Verlust)
 
----
+ROTATION
 
-# 🏹 Pre-TBC Skalierung
-Endgame-Waffen = größter Schub  
-Warum?  
-Weapon-Damage multipliziert dein ganzes Kit.
+SOLO
+VT → SW:P → Mind Blast → Mind Flay
 
----
+DUNGEONS
+VT → SW:P → Mind Flay
 
-# 🐺 Warum Beastmaster BiS in TBC ist
-Weil Blizzard Pet-Scaling komplett neu kodiert:
-- Pet erbt AP
-- Pet erbt Crit
-- Pet erbt Hit
-- Pet erhält Fähigkeiten
+RAIDS
+VT immer aktiv halten  
+SW:P → Mind Blast on CD → Mind Flay
 
-Ergebnis: **Pet = 40–45% Gesamt-DPS.**
+AURA
+- Immer: Shadowform
 
----
+GEAR UPGRADE PFAD
 
-# 🐺 Dungeon-Dominanz durch Pet-Scaling
-TBC Heroics haben:
-- Melee-Untote
-- Cleave-Weakness
-- Keine Pet-Konter
+PHASE 1
+- Head: Cowl of the Grand Engineer (The Mechanar)
+- Weapon: Gavel of Unearthed Secrets (Shadow Labyrinth)
+- Trinket: Quagmirran’s Eye (Slave Pens)
 
-Beastmaster facerollt.
+PHASE 2
+- Mindblade (Karazhan)
+- Icon of the Silver Crescent (Badges)
 
----
+PHASE 3
+- T5 Shadow Set (Serpentshrine Cavern / Tempest Keep)
+- Void Star Talisman (Serpentshrine Cavern)
 
-# 🧠 Warum Shadow wichtig ist (Priest)
-Shadow Weaving bufft **alle Warlocks + Mage Shadow DPS**.  
-Du bist ein **Damage-Support**.
+PHASE 4
+- Wand of the Forgotten Star (Black Temple)
+- Ashtongue Talisman (Black Temple)
 
----
+PHASE 5
+- Zhar'doom, Greatstaff of the Devourer (Sunwell Plateau)
+- T6 Set (Hyjal / Black Temple)
 
-# 🔮 Talente und Shadow-Weaving
-5 Stapel = 15% Shadow-Damage Raidbuff.  
-Warum?  
-Ohne dich fällt der Raid DPS um **10–25%.**
+================================================================================
+PALADIN – RETRIBUTION
+================================================================================
 
----
+CORE SKILLS (IMMER)
+- Seal of Command
+- Judgement
+- Crusader Strike
+- Consecration
+- Exorcism (Dämonen / Untote)
 
-# 🔮 Stat-Priorität
-1. Hit → weil fehlende Treffer 0 Damage sind  
-2. Spell Power  
-3. Crit (für Clearcasting)  
+NICHT BENUTZEN
+- Seal of Crusader
+- Holy Light im Kampf
 
----
+ROTATION
 
-# 🔮 Rotation und Effizienz-Begründung
-- Vampiric Embrace = Sustain für Raid
-- Mind Blast + Mind Flay  
-Warum?  
-Flay hat die **beste DMG:Mana Ratio.**
+SOLO
+Seal of Command → Crusader Strike → Judgement → Consecration
 
----
+DUNGEONS
+Consecration → Crusader Strike → Judgement
 
-# 🔮 Consumables für Sustain
-- Mageblood → MP5
-- Nightfin Soup
-- Major Mana
+RAIDS
+Crusader Strike → Judgement → Consecration (Mana beachten)
 
-Warum?  
-Priest ist Mana-Based DPS.
+AURAS
+- SOLO: Retribution Aura
+- DUNGEON: Retribution Aura
+- RAID: Retribution / Devotion
 
----
+GEAR UPGRADE PFAD
 
-# 🔮 Schwierige Boss-Mechaniken (Priest)
+PHASE 1
+- Weapon: Hellreaver (Blood Furnace)
+- Trinket: Hourglass of the Unraveller (Black Morass)
 
-### Kel’Thuzad
-- Threat Kontrolle
-- Mind Blast spät
+PHASE 2
+- Gorehowl (Karazhan)
+- Dragonspine Trophy (Gruul)
 
-### Loatheb
-- Keine Heilung
-- Priests → DPS only
+PHASE 3
+- T5 Retribution Set (SSC / TK)
+- Cataclysm’s Edge (Hyjal)
 
----
+PHASE 4
+- Berserker’s Call (ZA)
+- Ashtongue Talisman (Black Temple)
 
-# 🔮 Pre-TBC Skalierung
-Spell Power + MP5 bleiben relevant.  
-Why? → TBC ermöglicht Sustain-DPS dauernd.
+PHASE 5
+- Apolyon, the Soul-Render (Sunwell Plateau)
+- T6 Set (Hyjal / Black Temple)
 
----
+================================================================================
+PALADIN – PROTECTION
+================================================================================
 
-# 🔮 Warum Shadow in TBC Pflicht wird
-Vampiric Touch → Mana Battery  
-Raid gewinnt 300–600 MP5.
+CORE SKILLS (IMMER)
+- Righteous Fury
+- Holy Shield
+- Consecration
+- Judgement
+- Avenger’s Shield
 
----
+NICHT BENUTZEN
+- Seal of Command
+- Exorcism (außer Pull)
 
-# 🔮 Dungeon-Meta und Utility
-Fear, Shackle, Vampiric Touch = Sustain.
+ROTATION
 
----
+SOLO
+Seal of Righteousness → Judgement → Consecration
 
-# ⚔️ Warum Ret in Classic nicht Meta ist
-Weil:
-- kein Hit Support
-- keine gute Itemisierung
-- wenig Mana Sustain
+DUNGEONS
+Avenger’s Shield → Consecration → Holy Shield
 
----
+RAIDS
+Holy Shield → Consecration → Judgement
 
-# ⚔️ Warum Ret beim Leveln OP ist
-Seal of Command  
-1 Hit = 70–110% Waffenschaden.
+AURA
+- Immer: Devotion Aura
 
----
+GEAR UPGRADE PFAD
 
-# ⚔️ Seal of Command und Waffentempo
-Langsame Waffen = mehr Burst.  
+PHASE 1
+- Shield: Shield of the Wayward Footman (Black Morass)
+- Trinket: Adamantine Figurine (The Mechanar)
 
-Warum?  
-SoC kann nur 1× pro Swing proccen.
+PHASE 2
+- Aldori Legacy Defender (Gruul)
+- Figurine of the Colossus (Badges)
 
----
+PHASE 3
+- T5 Protection Set (SSC / TK)
+- Bulwark of Azzinoth (Black Temple)
 
-# ⚔️ Rotation und Auto-Attack Mechanik
-Wichtig: **Nicht clippen.**  
-Jede Sekunde ohne Swing = massiv DPS Verlust.
+PHASE 4
+- Badge Gear (ZA)
+- Ashtongue Talisman (Black Temple)
 
----
+PHASE 5
+- T6 Protection Set (Hyjal / Black Temple)
+- Sunwell Offset (Sunwell Plateau)
 
-# ⚔️ Dungeon-Utility
+================================================================================
+PALADIN – HOLY
+================================================================================
+
+CORE SKILLS (IMMER)
+- Flash of Light
+- Holy Light
 - Cleanse
-- Freedom
-- BoP
-- BoM
+- Blessings
 
-Warum?  
-Du „bezahlst“ Utility mit DPS.
+NICHT BENUTZEN
+- Seal / Judgement im Raid
+- Consecration
 
----
+ROTATION
 
-# ⚔️ Waffen-Progression
-- Corpsemaker
-- Ravager
-- Bonebiter
-- Rockpounder
+SOLO
+Seal of Righteousness → Judgement → Holy Light
 
-Warum?  
-Tempo-Scaling.
+DUNGEONS
+Flash of Light Spam  
+Holy Light bei Burst
 
----
+RAIDS
+Flash of Light Spam  
+Holy Light auf Tanks
 
-# ⚔️ Schwierige Boss-Mechaniken (Ret)
+AURA
+- Immer: Concentration Aura
 
-### Sapphiron
-→ Frost-Aura, SoC procc bleibt konstant
+GEAR UPGRADE PFAD
 
-### Four Horsemen
-→ Position wichtig
+PHASE 1
+- Weapon: Gavel of Pure Light (The Mechanar)
+- Trinket: Lower City Prayerbook (Shadow Labyrinth)
 
-### Kel’Thuzad
-→ Mana Management
+PHASE 2
+- Light’s Justice (Karazhan)
+- Eye of Gruul (Gruul)
 
----
+PHASE 3
+- T5 Holy Set (SSC / TK)
+- Mace of the Fallen Raven Priest (Zul’Aman)
 
-# ⚔️ Pre-TBC Kraftsprung
-Paladin bekommt:
-- Exorcism möglich
-- Itemisierung
-- bessere Crit-Synergie
+PHASE 4
+- Badge Gear (ZA)
+- Ashtongue Talisman (Black Temple)
 
----
+PHASE 5
+- Hammer of Judgement (Sunwell Plateau)
+- T6 Holy Set (Hyjal / Black Temple)
 
-# ⚔️ Warum Ret TBC Dungeons carried
-→ Hohe Resistenz  
-→ Viel Off-Heal  
-→ Burst-Trash DPS
+================================================================================
+MIN-MAX GRUNDLAGEN (ALLE KLASSEN)
+================================================================================
 
----
+- Hit > Crit > Mainstat (STR / AGI / SPELLPOWER)
+- Uptime ist wichtiger als Burst
+- Cooldowns NIE horten – außer Pull-Timing im Raid
+- Mana-Management entscheidet DPS / HPS langfristig
 
-# ⚔️ Seal-Twisting erklärt
-Windfury + Seal Wechsel **kurz vor Swing.**
+================================================================================
+HUNTER – MIN-MAX / THREAT / MANA
+================================================================================
 
----
+MIN-MAX
+- Hit-Cap: 9%
+- Steady Shot darf Auto Shot NICHT clippen
+- Multi-Shot nur wenn ≥2 Ziele
 
-# ⚔️ Berufe Mining + Blacksmith
-Warum perfekt?
-→ Waffen-Upgrades
-→ Goldgewinn
-→ Plate Crafting
+THREAT
+- Misdirection IMMER auf Tank bei Pull
+- Kein Multi-Shot bei ungesicherten Adds
+- Feign Death sofort bei Aggro
 
----
+MANA
+- Aspect of the Viper früh wechseln, nicht bei 0 Mana
+- Potions im Raid VOR leerem Mana
+- Bestial Wrath senkt Manakosten → offensiv nutzen
 
-# ⚔️ TBC-Raidrolle
-Ret = Hybrid Support DPS.
+================================================================================
+SHADOW PRIEST – MIN-MAX / THREAT / MANA
+================================================================================
 
----
+MIN-MAX
+- Vampiric Touch Uptime = 100 %
+- Mind Blast nur auf Cooldown
+- Mind Flay NICHT abbrechen (Tick-Verlust)
 
-# 🧩 Synergie aller drei Klassen
-Hunter profitiert von Shadow Weaving.  
-Priest profitiert von Paladin auras.  
-Paladin bufft Hunter/Locks.
+THREAT
+- Fade bei Aggro
+- Keine DoT-Erneuerung vor Ablauf (Threat-Spike)
+- Shadow Word: Death nur bei sicheren Bossen
 
----
+MANA
+- Eigene Mana = Raid-Mana
+- VT immer vor Movement erneuern
+- Shadowfiend bei ~50 % Mana
 
-# 💰 Berufs-Ökonomie
-Mining + Herb + Engineering = Goldmaschine.
+================================================================================
+PALADIN – RETRIBUTION – MIN-MAX / THREAT / MANA
+================================================================================
 
----
+MIN-MAX
+- Hit-Cap: 9 %
+- Weapon Damage > alles
+- Seal Twisting NICHT relevant in TBC
 
-# 🏁 Endresultat
-Du hast:
-- Meta Classic
-- Meta Pre-TBC
-- Meta TBC Start
-- Drei synergierende Berufe
-- Drei Raidrollen
+THREAT
+- Salvation IMMER im Raid
+- Kein Consecration bei Threat-Problemen
+- Judgement verzögern bei Pull
+
+MANA
+- Judgement of Wisdom im Raid Pflicht
+- Consecration nur wenn Mana >50 %
+- Pots aggressiv nutzen
+
+================================================================================
+PALADIN – PROTECTION – MIN-MAX / THREAT / MANA
+================================================================================
+
+MIN-MAX
+- Defense Cap: 490
+- Block Value skaliert Threat
+- Spell Damage > Stärke für AoE
+
+THREAT
+- Holy Shield NIE auslaufen lassen
+- Consecration = Haupt-Threat
+- Avenger’s Shield nur Pull oder Ranged
+
+MANA
+- Kein Mana = kein Tank
+- Wisdom auf Boss
+- Pots bei 40–50 %
+
+================================================================================
+PALADIN – HOLY – MIN-MAX / THREAT / MANA
+================================================================================
+
+MIN-MAX
+- +Healing > Int > MP5
+- Flash of Light = Standard
+- Holy Light nur bei echtem Burst
+
+THREAT
+- Heals erzeugen Threat → Salvation
+- Kein Overheal
+- Positionierung hinter Tank
+
+MANA
+- Downranking nutzen
+- Pots früh einsetzen
+- Divine Illumination offensiv nutzen
+
+================================================================================
+BOSSFIGHT-GRUNDSÄTZE (ALLE)
+================================================================================
+
+- Pre-Pot vor Pull
+- Cooldowns nach erster Tank-Stabilisierung
+- Movement > Cast (lieber abbrechen als sterben)
+- DPS tot = 0 DPS
+- Heiler-Mana ist Raid-Resource
+
+================================================================================
+ENDE – FINAL VERSION
+================================================================================
+
+- EINE Datei
+- Keine Splits
+- Keine Addons
+- Vollständig TBC PvE
+
