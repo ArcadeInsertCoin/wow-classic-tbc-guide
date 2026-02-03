@@ -1,51 +1,51 @@
-## World of Warcraft – The Burning Crusade Classic (Patch 2.5.x)
+### World of Warcraft – The Burning Crusade Classic (Patch 2.5.x)
 
 ---
-PALADIN (RETRIBUTION · PROTECTION · HOLY)
+#### PALADIN (RETRIBUTION · PROTECTION · HOLY)
 ---
 
 ---------------------------------------
-STAT-CAPS & PRIORITÄTEN
+#### STAT-CAPS & PRIORITÄTEN
 ---------------------------------------
 
-RETRIBUTION
+#### RETRIBUTION
 - Hit-Cap: 9 %
 - Priorität: Hit > Weapon Damage > Strength > Crit
 
-PROTECTION
+#### PROTECTION
 - Defense Cap: 490
 - Priorität: Defense > Stamina > Spell Damage > Block Value
 
-HOLY
+#### HOLY
 - Kein Hit-Cap
 - Priorität: +Healing > Intellect > MP5 > Crit
 
 ---------------------------------------
-CORE SKILLS (IMMER)
+#### CORE SKILLS (IMMER)
 ---------------------------------------
 
-RETRIBUTION
+#### RETRIBUTION
 - Seal of Command
 - Judgement
 - Crusader Strike
 - Consecration
 - Exorcism (Dämonen / Untote)
 
-PROTECTION
+#### PROTECTION
 - Righteous Fury
 - Holy Shield
 - Consecration
 - Judgement
 - Avenger’s Shield
 
-HOLY
+#### HOLY
 - Flash of Light
 - Holy Light
 - Cleanse
 - Blessings
 
 ---------------------------------------
-NICHT BENUTZEN
+#### NICHT BENUTZEN
 ---------------------------------------
 
 - Seal of Crusader (Ret)
@@ -54,26 +54,26 @@ NICHT BENUTZEN
 - Exorcism außer Pull (Prot)
 
 ---------------------------------------
-ROTATION
+#### ROTATION
 ---------------------------------------
 
-RETRIBUTION
+#### RETRIBUTION
 - SOLO: Seal of Command → Crusader Strike → Judgement → Consecration
 - DUNGEON: Consecration → Crusader Strike → Judgement
 - RAID: Crusader Strike → Judgement → Consecration (Mana beachten)
 
-PROTECTION
+#### PROTECTION
 - SOLO: Seal of Righteousness → Judgement → Consecration
 - DUNGEON: Avenger’s Shield → Consecration → Holy Shield
 - RAID: Holy Shield → Consecration → Judgement
 
-HOLY
+#### HOLY
 - SOLO: Seal of Righteousness → Judgement → Holy Light
 - DUNGEON: Flash of Light Spam, Holy Light bei Burst
 - RAID: Flash of Light Spam, Holy Light auf Tanks
 
 ---------------------------------------
-AUREN
+#### AUREN
 ---------------------------------------
 
 - Ret: Retribution Aura (Raid situativ Devotion)
@@ -81,63 +81,63 @@ AUREN
 - Holy: Concentration Aura
 
 ---------------------------------------
-GEAR UPGRADE PFAD
+#### GEAR UPGRADE PFAD
 ---------------------------------------
 
-PHASE 1
+#### PHASE 1
 - Ret: Hellreaver (Blood Furnace)
 - Prot: Shield of the Wayward Footman (Black Morass)
 - Holy: Gavel of Pure Light (Mechanar)
 
-PHASE 2
+#### PHASE 2
 - Ret: Gorehowl (Karazhan)
 - Prot: Aldori Legacy Defender (Gruul)
 - Holy: Light’s Justice (Karazhan)
 
-PHASE 3
+#### PHASE 3
 - T5 Sets (SSC / TK)
 - Ret: Cataclysm’s Edge (Hyjal)
 
-PHASE 4
+#### PHASE 4
 - Zul’Aman / Black Temple Offsets
 - Ashtongue Talismans
 
-PHASE 5
+#### PHASE 5
 - T6 Sets (Hyjal / Black Temple)
 - Sunwell Upgrades
 
 ---------------------------------------
-CONSUMABLES
+#### CONSUMABLES
 ---------------------------------------
 
-Food:
+#### Food:
 - Ret: +20 Strength
 - Prot: +30 Stamina
 - Holy: +20 Intellect
 
-Flasks:
+#### Flasks:
 - Ret: Flask of Relentless Assault
 - Prot: Flask of Fortification
 - Holy: Flask of Mighty Restoration
 
-Pflicht-Trinkets:
+#### Pflicht-Trinkets:
 - Ret: Dragonspine Trophy
 - Prot: Figurine of the Colossus
 - Holy: Eye of Gruul
 
 ---
-HUNTERIN
+#### HUNTERIN
 ---
 
 ---------------------------------------
-STAT-CAPS & PRIORITÄTEN
+#### STAT-CAPS & PRIORITÄTEN
 ---------------------------------------
 
 - Hit-Cap: 9 %
 - Priorität: Hit > Agility > Crit > Attack Power
 
 ---------------------------------------
-CORE SKILLS (IMMER)
+#### CORE SKILLS (IMMER)
 ---------------------------------------
 
 - Auto Shot
@@ -147,7 +147,7 @@ CORE SKILLS (IMMER)
 - Bestial Wrath
 
 ---------------------------------------
-NICHT BENUTZEN
+#### NICHT BENUTZEN
 ---------------------------------------
 
 - Arcane Shot
@@ -155,7 +155,7 @@ NICHT BENUTZEN
 - Raptor Strike
 
 ---------------------------------------
-ROTATION
+#### ROTATION
 ---------------------------------------
 
 - SOLO: Auto Shot → Steady Shot → Multi-Shot
@@ -163,31 +163,31 @@ ROTATION
 - RAID: Steady Shot Spam, Kill Command Proc, Bestial Wrath CD
 
 ---------------------------------------
-ASPECTS
+#### ASPECTS
 ---------------------------------------
 
 - Hawk (Standard)
 - Viper bei Mana-Problemen
 
 ---------------------------------------
-GEAR UPGRADE PFAD
+#### GEAR UPGRADE PFAD
 ---------------------------------------
 
-PHASE 1
+#### PHASE 1
 - Beast Lord Set (Underbog / Steamvault / SH / SL)
 - Sunfury Bow (Mechanar)
 - Hourglass of the Unraveller (Black Morass)
 
-PHASE 2
+#### PHASE 2
 - Serpent Spine Longbow
 - Dragonspine Trophy
 
-PHASE 3–5
+#### PHASE 3–5
 - T5 → T6
 - Thori’dal (Sunwell)
 
 ---------------------------------------
-CONSUMABLES
+#### CONSUMABLES
 ---------------------------------------
 
 - Food: +20 Agility
@@ -195,25 +195,25 @@ CONSUMABLES
 - Trinkets: Dragonspine Trophy, Hourglass
 
 ---------------------------------------
-BERUFE
+#### BERUFE
 ---------------------------------------
 
 Mining + Engineering = PERFEKT  
 Nicht ändern.
 
 ---
-PRIESTERIN (SHADOW)
+#### PRIESTERIN (SHADOW)
 ---
 
 ---------------------------------------
-STAT-CAPS & PRIORITÄTEN
+#### STAT-CAPS & PRIORITÄTEN
 ---------------------------------------
 
 - Hit-Cap: 16 % (Talente reduzieren Bedarf)
 - Priorität: Hit > Spellpower > Haste > Crit
 
 ---------------------------------------
-CORE SKILLS
+#### CORE SKILLS
 ---------------------------------------
 
 - Shadowform
@@ -223,7 +223,7 @@ CORE SKILLS
 - Mind Flay
 
 ---------------------------------------
-ROTATION
+#### ROTATION
 ---------------------------------------
 
 - SOLO: VT → SW:P → Mind Blast → Mind Flay
@@ -231,7 +231,7 @@ ROTATION
 - RAID: VT uptime 100 %, Mind Blast CD, Mind Flay
 
 ---------------------------------------
-GEAR UPGRADE PFAD
+#### GEAR UPGRADE PFAD
 ---------------------------------------
 
 PHASE 1–2
@@ -244,7 +244,7 @@ PHASE 3–5
 - Zhar’doom (Sunwell)
 
 ---------------------------------------
-CONSUMABLES
+#### CONSUMABLES
 ---------------------------------------
 
 - Food: +20 Spellpower
@@ -252,7 +252,7 @@ CONSUMABLES
 - Trinkets: Icon, Quagmirran’s Eye
 
 ---------------------------------------
-BERUFE
+#### BERUFE
 ---------------------------------------
 
 Alchemy + Herbalism = sehr gut  
