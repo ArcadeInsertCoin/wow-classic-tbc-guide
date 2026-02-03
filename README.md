@@ -394,3 +394,193 @@ ENDE – FINAL VERSION
 - Keine Addons
 - Vollständig TBC PvE
 
+================================================================================
+
+================================================================================
+STAT-CAPS & PRIORITÄTEN – TBC 2.5.x (PvE)
+================================================================================
+
+HUNTER
+- Hit-Cap: 9 %
+- Prio: Hit > Agility > Crit > Attack Power
+- Armor Penetration erst in sehr spätem Gear relevant
+
+SHADOW PRIEST
+- Hit-Cap: 16 % (mit Talenten effektiv ~10–13 %)
+- Prio: Hit > Spellpower > Haste > Crit > Int
+- Vampiric Touch Uptime wichtiger als Stats
+
+PALADIN – RETRIBUTION
+- Hit-Cap: 9 %
+- Expertise: Bonus, kein Muss
+- Prio: Hit > Weapon Damage > Strength > Crit
+
+PALADIN – PROTECTION
+- Defense Cap: 490
+- Prio: Defense > Stamina > Spell Damage > Block Value
+- Crush Immunity über Holy Shield
+
+PALADIN – HOLY
+- Kein Hit-Cap
+- Prio: +Healing > Intellect > MP5 > Crit
+- Haste stark ab Sunwell
+
+================================================================================
+BOSS-TIPPS – KARAZHAN
+================================================================================
+
+ALLGEMEIN
+- Cooldowns erst nach Tank-Stabilisierung
+- Threat beachten beim Pull
+
+HUNTER
+- Misdirection immer beim Pull
+- Kein Multi-Shot bei Moroes
+
+SHADOW PRIEST
+- Vampiric Touch immer aktiv
+- Shadowfiend bei Curator nach Evocation
+
+PALADIN RET
+- Exorcism bei Undead-Trash
+- Kein Burst direkt beim Pull
+
+PALADIN PROT
+- Consecration für Adds
+- Holy Shield niemals auslaufen lassen
+
+PALADIN HOLY
+- Flash of Light als Standard
+- Holy Light nur bei hohem Schaden
+
+================================================================================
+BOSS-TIPPS – SERPENTSHRINE CAVERN (SSC)
+================================================================================
+
+HUNTER
+- Kein Multi-Shot bei Lady Vashj
+- Adds nach Ansage fokussieren
+
+SHADOW PRIEST
+- VT auf Boss, nicht auf Adds
+- Bewegung > Cast
+
+PALADIN RET
+- Cleave kontrollieren
+- Threat im Auge behalten
+
+PALADIN PROT
+- Spell-Damage-Gear für Trash
+- Adds sichern, nicht jagen
+
+PALADIN HOLY
+- Dispel > Heal
+- Mana früh managen
+
+================================================================================
+BOSS-TIPPS – TEMPEST KEEP (TK)
+================================================================================
+
+HUNTER
+- Steady Shot Uptime maximieren
+- Kein Over-Aggro bei Void Reaver
+
+SHADOW PRIEST
+- VT vor Phasenwechsel erneuern
+- Shadowfiend nicht verschwenden
+
+PALADIN RET
+- Cooldowns nur in sicheren Phasen
+- Vorsicht bei Al’ar Adds
+
+PALADIN PROT
+- Avenger’s Shield nur zum Pull
+- Holy Shield vor Knockbacks
+
+PALADIN HOLY
+- Gute Positionierung
+- Burst-Heals vorbereiten
+
+================================================================================
+BOSS-TIPPS – MOUNT HYJAL
+================================================================================
+
+ALLGEMEIN
+- Trash ist gefährlicher als Bosse
+- Mana-Management entscheidend
+
+HUNTER
+- Multi-Shot bei kontrollierten Wellen
+- Feign Death bei Threat
+
+SHADOW PRIEST
+- VT auf Boss, Mind Flay auf Trash
+- Shadowfiend zwischen Wellen
+
+PALADIN RET
+- Seal of Command Cleave nutzen
+- Salvation Pflicht
+
+PALADIN PROT
+- AoE-Threat dominieren
+- Consecration + Holy Shield
+
+PALADIN HOLY
+- Downranking nutzen
+- Mana für Bosswellen sparen
+
+================================================================================
+BOSS-TIPPS – BLACK TEMPLE
+================================================================================
+
+HUNTER
+- Kein Multi-Shot bei Reliquary
+- CDs mit Bloodlust
+
+SHADOW PRIEST
+- Eigene Survival > DPS
+- VT niemals auslaufen lassen
+
+PALADIN RET
+- Exorcism bei Dämonen
+- Aggro bei Illidan kontrollieren
+
+PALADIN PROT
+- Spell-Damage-Set für Adds
+- Cooldowns rotieren
+
+PALADIN HOLY
+- Fokus auf Tanks
+- CDs für Enrage sparen
+
+================================================================================
+BOSS-TIPPS – SUNWELL PLATEAU
+================================================================================
+
+ALLGEMEIN
+- Fehler = Tod
+- Perfekte Rotation nötig
+
+HUNTER
+- Thori’dal erleichtert Mana
+- Kein unnötiger Movement
+
+SHADOW PRIEST
+- VT absolut kritisch
+- Shadowfiend exakt timen
+
+PALADIN RET
+- Hit-Cap MUSS erreicht sein
+- Cooldowns nur auf Ansage
+
+PALADIN PROT
+- Maximale Mitigation
+- Defensive CDs planen
+
+PALADIN HOLY
+- Max +Healing
+- Mana-CDs rotieren
+
+================================================================================
+ENDE – STAT CAPS & BOSS TIPPS
+================================================================================
