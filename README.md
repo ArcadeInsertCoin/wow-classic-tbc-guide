@@ -1,298 +1,222 @@
-### World of Warcraft – The Burning Crusade Classic (Patch 2.5.x)
+# World of Warcraft – The Burning Crusade Classic (Patch 2.5.x)
+## PvE Guide · Alliance
 
 ---
-#### PALADIN (RETRIBUTION · PROTECTION · HOLY)
----
 
----------------------------------------
-#### STAT-CAPS & PRIORITÄTEN
----------------------------------------
+## 🛡️ PALADIN (Retribution · Protection · Holy)
 
-#### RETRIBUTION
-- Hit-Cap: 9 %
-- Priorität: Hit > Weapon Damage > Strength > Crit
+### 📊 Stat-Caps & Prioritäten
 
-#### PROTECTION
-- Defense Cap: 490
-- Priorität: Defense > Stamina > Spell Damage > Block Value
+**Retribution**
+- Hit-Cap: **9 %**
+- Prio: Hit → Weapon Damage → Strength → Crit
 
-#### HOLY
+**Protection**
+- Defense Cap: **490**
+- Prio: Defense → Stamina → Spell Damage → Block Value
+
+**Holy**
 - Kein Hit-Cap
-- Priorität: +Healing > Intellect > MP5 > Crit
+- Prio: +Healing → Intellect → MP5 → Crit
 
----------------------------------------
-#### CORE SKILLS (IMMER)
----------------------------------------
+---
 
-#### RETRIBUTION
-- Seal of Command
-- Judgement
-- Crusader Strike
-- Consecration
+### ⚔️ Core Skills (immer)
+
+**Retribution**
+- Seal of Command  
+- Judgement  
+- Crusader Strike  
+- Consecration  
 - Exorcism (Dämonen / Untote)
 
-#### PROTECTION
-- Righteous Fury
-- Holy Shield
-- Consecration
-- Judgement
+**Protection**
+- Righteous Fury  
+- Holy Shield  
+- Consecration  
+- Judgement  
 - Avenger’s Shield
 
-#### HOLY
-- Flash of Light
-- Holy Light
-- Cleanse
+**Holy**
+- Flash of Light  
+- Holy Light  
+- Cleanse  
 - Blessings
 
----------------------------------------
-#### NICHT BENUTZEN
----------------------------------------
+---
 
-- Seal of Crusader (Ret)
-- Holy Light als DPS-Heal (Ret)
-- Seal / Judgement im Raid (Holy)
+### 🚫 Nicht benutzen
+- Seal of Crusader (Ret)  
+- Holy Light als DPS-Heal (Ret)  
+- Seal / Judgement im Raid (Holy)  
 - Exorcism außer Pull (Prot)
 
----------------------------------------
-#### ROTATION
----------------------------------------
-
-#### RETRIBUTION
-- SOLO: Seal of Command → Crusader Strike → Judgement → Consecration
-- DUNGEON: Consecration → Crusader Strike → Judgement
-- RAID: Crusader Strike → Judgement → Consecration (Mana beachten)
-
-#### PROTECTION
-- SOLO: Seal of Righteousness → Judgement → Consecration
-- DUNGEON: Avenger’s Shield → Consecration → Holy Shield
-- RAID: Holy Shield → Consecration → Judgement
-
-#### HOLY
-- SOLO: Seal of Righteousness → Judgement → Holy Light
-- DUNGEON: Flash of Light Spam, Holy Light bei Burst
-- RAID: Flash of Light Spam, Holy Light auf Tanks
-
----------------------------------------
-#### AUREN
----------------------------------------
-
-- Ret: Retribution Aura (Raid situativ Devotion)
-- Prot: Devotion Aura
-- Holy: Concentration Aura
-
----------------------------------------
-#### GEAR UPGRADE PFAD
----------------------------------------
-
-#### PHASE 1
-- Ret: Hellreaver (Blood Furnace)
-- Prot: Shield of the Wayward Footman (Black Morass)
-- Holy: Gavel of Pure Light (Mechanar)
-
-#### PHASE 2
-- Ret: Gorehowl (Karazhan)
-- Prot: Aldori Legacy Defender (Gruul)
-- Holy: Light’s Justice (Karazhan)
-
-#### PHASE 3
-- T5 Sets (SSC / TK)
-- Ret: Cataclysm’s Edge (Hyjal)
-
-#### PHASE 4
-- Zul’Aman / Black Temple Offsets
-- Ashtongue Talismans
-
-#### PHASE 5
-- T6 Sets (Hyjal / Black Temple)
-- Sunwell Upgrades
-
----------------------------------------
-#### CONSUMABLES
----------------------------------------
-
-#### Food:
-- Ret: +20 Strength
-- Prot: +30 Stamina
-- Holy: +20 Intellect
-
-#### Flasks:
-- Ret: Flask of Relentless Assault
-- Prot: Flask of Fortification
-- Holy: Flask of Mighty Restoration
-
-#### Pflicht-Trinkets:
-- Ret: Dragonspine Trophy
-- Prot: Figurine of the Colossus
-- Holy: Eye of Gruul
-
----
-#### HUNTERIN
 ---
 
----------------------------------------
-#### STAT-CAPS & PRIORITÄTEN
----------------------------------------
+### 🔁 Rotation
 
-- Hit-Cap: 9 %
-- Priorität: Hit > Agility > Crit > Attack Power
+**Retribution**
+- Solo: SoC → CS → Judge → Consecration  
+- Dungeon: Consecration → CS → Judge  
+- Raid: CS → Judge → Consecration (Mana!)
 
----------------------------------------
-#### CORE SKILLS (IMMER)
----------------------------------------
+**Protection**
+- Solo: SoR → Judge → Consecration  
+- Dungeon: Avenger’s Shield → Consecration → Holy Shield  
+- Raid: Holy Shield → Consecration → Judge
 
-- Auto Shot
-- Steady Shot
-- Multi-Shot
-- Kill Command
-- Bestial Wrath
-
----------------------------------------
-#### NICHT BENUTZEN
----------------------------------------
-
-- Arcane Shot
-- Serpent Sting im Raid
-- Raptor Strike
-
----------------------------------------
-#### ROTATION
----------------------------------------
-
-- SOLO: Auto Shot → Steady Shot → Multi-Shot
-- DUNGEON: Multi-Shot → Steady Shot
-- RAID: Steady Shot Spam, Kill Command Proc, Bestial Wrath CD
-
----------------------------------------
-#### ASPECTS
----------------------------------------
-
-- Hawk (Standard)
-- Viper bei Mana-Problemen
-
----------------------------------------
-#### GEAR UPGRADE PFAD
----------------------------------------
-
-#### PHASE 1
-- Beast Lord Set (Underbog / Steamvault / SH / SL)
-- Sunfury Bow (Mechanar)
-- Hourglass of the Unraveller (Black Morass)
-
-#### PHASE 2
-- Serpent Spine Longbow
-- Dragonspine Trophy
-
-#### PHASE 3–5
-- T5 → T6
-- Thori’dal (Sunwell)
-
----------------------------------------
-#### CONSUMABLES
----------------------------------------
-
-- Food: +20 Agility
-- Elixir: Major Agility
-- Trinkets: Dragonspine Trophy, Hourglass
-
----------------------------------------
-#### BERUFE
----------------------------------------
-
-Mining + Engineering = PERFEKT  
-Nicht ändern.
+**Holy**
+- Solo: SoR → Judge → Holy Light  
+- Dungeon: Flash of Light, HL bei Burst  
+- Raid: Flash of Light Spam, HL auf Tanks
 
 ---
-#### PRIESTERIN (SHADOW)
+
+### 🔔 Auren
+- Ret: Retribution (Raid ggf. Devotion)  
+- Prot: Devotion  
+- Holy: Concentration  
+
 ---
 
----------------------------------------
-#### STAT-CAPS & PRIORITÄTEN
----------------------------------------
+### 🧱 Gear-Pfad (Kurz)
 
-- Hit-Cap: 16 % (Talente reduzieren Bedarf)
-- Priorität: Hit > Spellpower > Haste > Crit
+**P1**
+- Ret: Hellreaver  
+- Prot: Shield of the Wayward Footman  
+- Holy: Gavel of Pure Light  
 
----------------------------------------
-#### CORE SKILLS
----------------------------------------
+**P2**
+- Ret: Gorehowl  
+- Prot: Aldori Legacy Defender  
+- Holy: Light’s Justice  
 
-- Shadowform
-- Vampiric Touch
-- Shadow Word: Pain
-- Mind Blast
-- Mind Flay
+**P3–5**
+- T5 → T6  
+- Hyjal / BT / Sunwell Upgrades  
 
----------------------------------------
-#### ROTATION
----------------------------------------
+---
 
-- SOLO: VT → SW:P → Mind Blast → Mind Flay
-- DUNGEON: VT → SW:P → Mind Flay
-- RAID: VT uptime 100 %, Mind Blast CD, Mind Flay
+### 🍖 Consumables
 
----------------------------------------
-#### GEAR UPGRADE PFAD
----------------------------------------
+**Food**
+- Ret: +20 Strength  
+- Prot: +30 Stamina  
+- Holy: +20 Intellect  
 
-PHASE 1–2
-- Gavel of Unearthed Secrets
-- Mindblade
-- Icon of the Silver Crescent
+**Flasks**
+- Ret: Relentless Assault  
+- Prot: Fortification  
+- Holy: Mighty Restoration  
 
-PHASE 3–5
-- T5 → T6
-- Zhar’doom (Sunwell)
+**Trinkets**
+- Ret: Dragonspine Trophy  
+- Prot: Figurine of the Colossus  
+- Holy: Eye of Gruul  
 
----------------------------------------
-#### CONSUMABLES
----------------------------------------
+---
 
-- Food: +20 Spellpower
-- Flask: Pure Death
-- Trinkets: Icon, Quagmirran’s Eye
+## 🏹 HUNTERIN
 
----------------------------------------
-#### BERUFE
----------------------------------------
+### 📊 Stats
+- Hit-Cap: **9 %**
+- Prio: Hit → Agility → Crit → AP
 
+### ⚔️ Core
+- Auto Shot · Steady Shot · Multi-Shot  
+- Kill Command · Bestial Wrath  
+
+### 🚫 Nicht benutzen
+- Arcane Shot  
+- Serpent Sting (Raid)  
+- Raptor Strike  
+
+### 🔁 Rotation
+- Solo: Auto → Steady → Multi  
+- Dungeon: Multi → Steady  
+- Raid: Steady Spam, KC Proc, BW on CD  
+
+### 🦅 Aspects
+- Hawk (Standard)  
+- Viper bei Mana  
+
+### 🧱 Gear
+- P1: Beast Lord Set, Sunfury Bow  
+- P2: Serpent Spine Longbow, DST  
+- P3–5: T5 → T6, Thori’dal  
+
+### 🍖 Consumables
+- Food: +20 Agility  
+- Elixir: Major Agility  
+- Trinkets: DST, Hourglass  
+
+### 🔧 Berufe
+**Mining + Engineering = perfekt** ✔️
+
+---
+
+## 🧙‍♀️ PRIESTERIN (Shadow)
+
+### 📊 Stats
+- Hit-Cap: **16 %** (Talente reduzieren)
+- Prio: Hit → Spellpower → Haste → Crit
+
+### ⚔️ Core
+- Shadowform  
+- Vampiric Touch  
+- Shadow Word: Pain  
+- Mind Blast · Mind Flay  
+
+### 🔁 Rotation
+- Solo: VT → SW:P → MB → MF  
+- Dungeon: VT → SW:P → MF  
+- Raid: VT 100 %, MB CD, MF  
+
+### 🧱 Gear
+- P1–2: Mindblade, Icon of the Silver Crescent  
+- P3–5: T5 → T6, Zhar’doom  
+
+### 🍖 Consumables
+- Food: +20 Spellpower  
+- Flask: Pure Death  
+- Trinkets: Icon, Quagmirran’s Eye  
+
+### 🌿 Berufe
 Alchemy + Herbalism = sehr gut  
-Optional später Tailoring (Min-Max).
+Optional: Tailoring (Min-Max)
 
 ---
-BOSS-AUFGABEN (KURZ & PRAXISNAH)
+
+## 🐉 Boss-Aufgaben (Kurz & Praxisnah)
+
+**Karazhan**
+- Paladin: Segen, Adds  
+- Hunter: Misdirection, kein Multi bei Moroes  
+- Priest: VT uptime, Shadowfiend bei Curator  
+
+**SSC / TK**
+- Paladin: Add-Control  
+- Hunter: Kein Multi bei Vashj  
+- Priest: Bewegung > Cast  
+
+**Hyjal**
+- Paladin: AoE-Threat  
+- Hunter: Cleave kontrollieren  
+- Priest: Mana zwischen Waves  
+
+**Black Temple**
+- Paladin: CDs rotieren  
+- Hunter: CDs mit BL  
+- Priest: Survival > DPS  
+
+**Sunwell**
+- Paladin: Fehlerfrei spielen  
+- Hunter: Uptime maximieren  
+- Priest: VT absolut kritisch  
+
 ---
 
-KARAZHAN
-- Paladin: Segen, Adds, Utility
-- Hunter: Misdirection, kein Multi-Shot bei Moroes
-- Priest: VT uptime, Shadowfiend bei Curator
-
-SSC / TK
-- Paladin: Add-Kontrolle
-- Hunter: Kein Multi-Shot bei Lady Vashj
-- Priest: Bewegung vor Cast
-
-HYJAL
-- Paladin: AoE-Threat König
-- Hunter: Cleave kontrolliert
-- Priest: Mana zwischen Wellen
-
-BLACK TEMPLE
-- Paladin: CDs rotieren, Exorcism bei Dämonen
-- Hunter: CDs mit Bloodlust
-- Priest: Survival > DPS
-
-SUNWELL
-- Paladin: Fehlervermeidung, perfekte Rotation
-- Hunter: Uptime maximieren
-- Priest: VT absolut kritisch
-
----
-FAZIT – FOKUS PALADIN
----
-
-- Deine Paladin-Berufe sind optimal
-- Ret & Prot stark gefragt
+## ✅ Fazit – Fokus Paladin
+- Berufe optimal  
+- Ret & Prot sehr gefragt  
 - Perfekte Klasse für Einstieg & Progress
-
----
