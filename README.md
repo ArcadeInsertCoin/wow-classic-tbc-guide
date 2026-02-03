@@ -1,7 +1,4 @@
-# World of Warcraft – The Burning Crusade Classic (Patch 2.5.x)
-# PvE Komplettguide – Alliance
-# Paladin · Hunter · Shadow Priest
-# Fokus: Paladin zuerst
+## World of Warcraft – The Burning Crusade Classic (Patch 2.5.x)
 
 ---
 PALADIN (RETRIBUTION · PROTECTION · HOLY)
