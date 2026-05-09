@@ -177,7 +177,7 @@ _Retribution PvE Guide_
 
 ---
 
-# ⚡ SHAMANIN
+# ⚡ SHAMAN
 _Elemental PvE Guide_
 
 ---
