@@ -1,10 +1,10 @@
-## WoW Classic TBC Complete PvE Guide
-### Alliance Edition
-#### Elemental Shaman (70) & Retribution Paladin (70)
+### WoW Classic TBC Complete PvE Guide
+#### Alliance Edition
+##### Elemental Shaman (70) & Retribution Paladin (70)
 
 ---
 
-## Inhaltsverzeichnis
+### Inhaltsverzeichnis
 
 - Elemental Shaman
   - Stat Prioritäten
@@ -30,11 +30,11 @@
 
 ---
 
-## ⚡ Elemental Shaman
+### ⚡ Elemental Shaman
 
-### Stat Prioritäten
+#### Stat Prioritäten
 
-#### Raid Setup
+##### Raid Setup
 
 1. Spell Hit
 2. Spell Damage
