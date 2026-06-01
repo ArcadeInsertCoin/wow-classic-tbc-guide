@@ -1,6 +1,6 @@
 ### WoW Classic TBC Complete PvE Guide
 #### Alliance Edition
-##### Elemental Shaman (70) & Retribution Paladin (70)
+#### Elemental Shaman (70) & Retribution Paladin (70)
 
 ---
 
