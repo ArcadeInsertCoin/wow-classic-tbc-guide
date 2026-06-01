@@ -1,28 +1,28 @@
-# WoW Classic TBC Complete PvE Guide
-## Alliance Edition
-## Elemental Shaman (70) & Retribution Paladin (70)
+# ⚔️ WoW Classic TBC Complete PvE Guide
+### 🌍 Alliance Edition
+### 🧙 Elemental Shaman (70) & 🛡️ Retribution Paladin (70)
 
-A polished PvE reference for TBC Classic with raid notes, dungeon tips, macros, consumables, and class-specific priorities.
+**A structured PvE reference for TBC Classic with raid notes, dungeon tips, macros, consumables, and class priorities.**
 
 ---
 
-## Table of Contents
+## 📌 Table of Contents
 
-- [Elemental Shaman](#elemental-shaman)
-- [Retribution Paladin](#retribution-paladin)
-- [Heroic Dungeons](#heroic-dungeons)
-- [Macros](#macros)
-- [Addons](#addons)
-- [Gear Progression](#gear-progression)
-- [Consumables](#consumables)
-- [Golden Rules](#golden-rules)
+- [⚡ Elemental Shaman](#-elemental-shaman)
+- [🛡️ Retribution Paladin](#-retribution-paladin)
+- [🏰 Heroic Dungeons](#-heroic-dungeons)
+- [⌨️ Macros](#-macros)
+- [🧩 Addons](#-addons)
+- [🗡️ Gear Progression](#-gear-progression)
+- [🍖 Consumables](#-consumables)
+- [✅ Golden Rules](#-golden-rules)
 
 ---
 
 <details open>
 <summary><strong>⚡ Elemental Shaman</strong></summary>
 
-### Stat Priority
+### 📊 Stat Priority
 
 1. Spell Hit
 2. Spell Damage
@@ -31,7 +31,7 @@ A polished PvE reference for TBC Classic with raid notes, dungeon tips, macros, 
 5. Intellect
 6. MP5
 
-### Hit Cap
+### 🎯 Hit Cap
 
 #### Ohne Shadow Priest / Boomkin
 
@@ -41,7 +41,7 @@ A polished PvE reference for TBC Classic with raid notes, dungeon tips, macros, 
 
 - deutlich reduziert
 
-### Zielwerte
+### 📈 Zielwerte
 
 | Stat | Ziel |
 |---|---|
@@ -50,7 +50,7 @@ A polished PvE reference for TBC Classic with raid notes, dungeon tips, macros, 
 | Haste | so viel wie möglich |
 | Hit | Cap zuerst |
 
-### Rotation
+### 🔁 Rotation
 
 #### Single Target
 
@@ -79,7 +79,7 @@ Chain Lightning
 Fire Nova Totem
 ```
 
-### Cooldowns
+### 💥 Cooldowns
 
 #### Elemental Mastery
 
@@ -103,7 +103,7 @@ Optimal:
 - Burst Phase
 - Execute ähnliche Situationen
 
-### Totem Sets
+### 🪵 Totem Sets
 
 #### Caster Group
 
@@ -215,11 +215,14 @@ als von Windfury.
 
 Feral Druiden profitieren ebenfalls stark von Agility.
 
-### Raid Guides
+---
 
-#### Gruul's Lair
+### 🐉 Raid Guides
 
-##### High King Maulgar
+<details>
+<summary><strong>Gruul's Lair</strong></summary>
+
+#### High King Maulgar
 
 - Adds DPS
 - Danach Maulgar
@@ -237,7 +240,7 @@ Maulgar nach Add Phase
 - Blindeye heilt, Fokus Target.
 - Olm feart, Tremor Totem vorbereiten.
 
-##### Gruul
+#### Gruul
 
 - Purer DPS Check.
 - Max Range spielen.
@@ -267,18 +270,21 @@ Growth 10+
 - Shatter: spread.
 - Cave In: sofort rauslaufen.
 
-#### Magtheridon's Lair
+</details>
 
-##### Phase 1
+<details>
+<summary><strong>Magtheridon's Lair</strong></summary>
+
+#### Phase 1
 
 - Channeler töten.
 - Interrupts koordinieren.
 
-##### Phase 2
+#### Phase 2
 
 - Boss aktiv.
 
-##### Cooldowns
+#### Cooldowns
 
 ```text
 Sobald Magtheridon aktiv wird
@@ -292,7 +298,7 @@ Trinkets
 Destruction Potion
 ```
 
-##### Cube Pflicht
+#### Cube Pflicht
 
 Wenn du Cube Spieler bist:
 
@@ -300,14 +306,17 @@ Wenn du Cube Spieler bist:
 Blast Nova hat Priorität über DPS
 ```
 
-##### Achtung
+#### Achtung
 
 - Debris: nicht stehen bleiben.
 - Blast Nova: muss unterbrochen werden.
 
-#### Serpentshrine Cavern
+</details>
 
-##### Hydross the Unstable
+<details>
+<summary><strong>Serpentshrine Cavern</strong></summary>
+
+#### Hydross the Unstable
 
 - Single Target DPS.
 - Cooldowns direkt nach Transition.
@@ -317,7 +326,7 @@ Blast Nova hat Priorität über DPS
 - Aggro Reset.
 - Nicht zu früh laufen.
 
-##### The Lurker Below
+#### The Lurker Below
 
 - Boss DPS.
 - Adds während Submerge.
@@ -330,7 +339,7 @@ Nach erstem Spout.
 
 - Spout: Rotation beobachten, sofort bewegen.
 
-##### Leotheras the Blind
+#### Leotheras the Blind
 
 - Boss DPS.
 
@@ -350,7 +359,7 @@ Nicht während:
 Whirlwind
 ```
 
-##### Fathom-Lord Karathress
+#### Fathom-Lord Karathress
 
 - Adds zuerst.
 
@@ -372,7 +381,7 @@ Spitfire Totem
 
 Auf erstes Priority Target.
 
-##### Morogrim Tidewalker
+#### Morogrim Tidewalker
 
 - Boss DPS.
 - Chain Lightning bei Murloc Wellen nutzen.
@@ -386,23 +395,23 @@ Nach erster Murloc Welle.
 - Watery Grave: Spieler werden eingesperrt.
 - Earthquake: Stuns beachten.
 
-##### Lady Vashj
+#### Lady Vashj
 
-###### Phase 1
+##### Phase 1
 
 - Boss DPS.
 
-###### Phase 2
+##### Phase 2
 
 - Naga
 - Strider
 - Tainted Core
 
-###### Phase 3
+##### Phase 3
 
 - Boss Burn.
 
-###### Cooldowns
+##### Cooldowns
 
 ```text
 Phase 3
@@ -415,30 +424,33 @@ Bloodlust
 Trinkets
 ```
 
-###### Achtung
+##### Achtung
 
 - Tainted Core sofort aufnehmen.
 - Strider kite support.
 - Spore Bats priorisieren.
 
-#### Tempest Keep (The Eye)
+</details>
 
-##### Al'ar
+<details>
+<summary><strong>Tempest Keep (The Eye)</strong></summary>
+
+#### Al'ar
 
 - Single Target DPS.
 - Plattformwechsel beachten.
 
-###### Phase 1
+##### Phase 1
 
 - Boss auf aktueller Plattform angreifen.
 - Position wechseln sobald Tank springt.
 
-###### Phase 2
+##### Phase 2
 
 - Boss DPS.
 - Embers cleaven.
 
-###### Cooldowns
+##### Cooldowns
 
 ```text
 Direkt zu Beginn von Phase 2
@@ -451,63 +463,63 @@ Bloodlust
 Trinkets
 ```
 
-###### Achtung
+##### Achtung
 
 - Meteor: sofort weglaufen.
 - Flame Patch: nicht stehen bleiben.
 
-##### Void Reaver
+#### Void Reaver
 
 - Purer DPS Fight.
 - Max Range.
 
-###### Cooldowns
+##### Cooldowns
 
 Boss Pull.
 
 Sobald bereit.
 
-###### Achtung
+##### Achtung
 
 - Arcane Orb: permanent bewegen.
 - Orb Treffer vermeiden.
 
-##### High Astromancer Solarian
+#### High Astromancer Solarian
 
 - Boss DPS.
 - Add Wellen schnell töten.
 
-###### Cooldowns
+##### Cooldowns
 
 Nach erster Add Phase.
 
-###### Achtung
+##### Achtung
 
 - Wrath of the Astromancer: sofort aus der Gruppe laufen.
 
-##### Kael'thas Sunstrider
+#### Kael'thas Sunstrider
 
-###### Phase 1
+##### Phase 1
 
 - Berater einzeln.
 
-###### Phase 2
+##### Phase 2
 
 - Legendäre Waffen.
 
-###### Phase 3
+##### Phase 3
 
 - Alle Berater gleichzeitig.
 
-###### Phase 4
+##### Phase 4
 
 - Kael selbst.
 
-###### Phase 5
+##### Phase 5
 
 - Gravity Lapse.
 
-###### Cooldowns
+##### Cooldowns
 
 ```text
 Phase 3
@@ -523,14 +535,16 @@ Phase 4 oder 5
 
 auf Kael.
 
-###### Achtung
+##### Achtung
 
 - Staff of Disintegration looten.
 - Thaladred: kiten.
 - Capernian: Conflagration interrupten wenn möglich.
 - Gravity Lapse: schweben, Kugeln ausweichen, DPS halten.
 
-### Macros
+</details>
+
+### ⌨️ Macros
 
 #### Lightning Bolt
 
@@ -589,10 +603,12 @@ auf Kael.
 
 </details>
 
+---
+
 <details>
 <summary><strong>🛡️ Retribution Paladin</strong></summary>
 
-### Stat Priority
+### 📊 Stat Priority
 
 - Hit (9%)
 - Strength
@@ -601,7 +617,7 @@ auf Kael.
 - Crit
 - Haste
 
-### Seal Twisting Guide
+### ⚔️ Seal Twisting Guide
 
 #### Was ist Seal Twisting?
 
@@ -617,27 +633,27 @@ Seal of Command
 Seal of Righteousness
 ```
 
-#### Swing Timer
+### ⏱️ Swing Timer
 
-##### Pflicht Addons
+#### Pflicht Addons
 
 - WeaponSwingTimer
 - Quartz
 - WeakAura Swing Bar
 
-##### Timing
+#### Timing
 
 ```text
 0.3 - 0.4 Sekunden vor dem Autoattack
 ```
 
-##### Zu früh
+#### Zu früh
 
 ```text
 DPS Verlust
 ```
 
-##### Zu spät
+#### Zu spät
 
 ```text
 Twist verpasst
@@ -665,7 +681,7 @@ Swing landet
 Zurück zu Seal of Command
 ```
 
-### Rotation
+### 🔁 Rotation
 
 #### Raid Priority
 
@@ -675,7 +691,7 @@ Zurück zu Seal of Command
 4. Consecration
 5. Exorcism (Dämonen/Untote)
 
-### Cooldowns
+### 💥 Cooldowns
 
 #### Avenging Wrath
 
@@ -709,7 +725,7 @@ Avenging Wrath
 DST Proc
 ```
 
-### Auras
+### ✨ Auras
 
 #### Solo
 
@@ -743,7 +759,7 @@ oder
 Fire Resistance Aura
 ```
 
-### Blessings
+### 🙏 Blessings
 
 #### Caster Group
 
@@ -769,11 +785,12 @@ Blessing of Might
 - Balance: Blessing of Wisdom
 - Hunter: Blessing of Might
 
-### Raid Guides
+### 🐉 Raid Guides
 
-#### Gruul's Lair
+<details>
+<summary><strong>Gruul's Lair</strong></summary>
 
-##### High King Maulgar
+#### High King Maulgar
 
 - Adds DPS
 - Danach Maulgar
@@ -793,7 +810,7 @@ Maulgar
 - Whirlwind: nicht stehen bleiben.
 - Aggro: Burst kontrollieren.
 
-##### Gruul
+#### Gruul
 
 - Purer DPS Fight.
 
@@ -814,19 +831,22 @@ Trinkets stacken.
 - Ground Slam: Position merken.
 - Shatter: sofort Abstand.
 
-#### Magtheridon's Lair
+</details>
 
-##### Magtheridon
+<details>
+<summary><strong>Magtheridon's Lair</strong></summary>
 
-###### Phase 1
+#### Magtheridon
+
+##### Phase 1
 
 Adds kontrollieren.
 
-###### Phase 2
+##### Phase 2
 
 Volle DPS.
 
-###### Cooldowns
+##### Cooldowns
 
 Wenn aktiv:
 
@@ -834,76 +854,79 @@ Wenn aktiv:
 Magtheridon + Bloodlust
 ```
 
-###### Achtung
+##### Achtung
 
 - Blast Nova: Cube Spieler unterstützen.
 - Debris: bewegen.
 
-#### SSC
+</details>
 
-##### Hydross
+<details>
+<summary><strong>SSC</strong></summary>
 
-###### Cooldowns
+#### Hydross
+
+##### Cooldowns
 
 Nach Transition.
 
-###### Achtung
+##### Achtung
 
 - Aggro Reset.
 
-##### Lurker Below
+#### Lurker Below
 
-###### Achtung
+##### Achtung
 
 - Spout: immer Bewegung.
 
-###### Cooldowns
+##### Cooldowns
 
 Nach erstem Spout.
 
-##### Leotheras
+#### Leotheras
 
-###### Achtung
+##### Achtung
 
 - Whirlwind: kein Melee Kontakt.
 
-###### Cooldowns
+##### Cooldowns
 
 Human Form.
 
-##### Karathress
+#### Karathress
 
-###### Priorität
+##### Priorität
 
 Adds.
 
-###### Achtung
+##### Achtung
 
 - Totems töten.
 
-##### Morogrim
+#### Morogrim
 
 - Murloc Support.
 
-###### Cooldowns
+##### Cooldowns
 
 Nach erster Murloc Welle.
 
-##### Lady Vashj
+#### Lady Vashj
 
-###### Phase 1
+##### Phase 1
 
 Kontrollierte DPS.
 
-###### Phase 2
+##### Phase 2
 
 Adds.
 
-###### Phase 3
+##### Phase 3
 
 Boss Burn.
 
-###### Cooldowns
+##### Cooldowns
 
 ```text
 Phase 3
@@ -916,44 +939,47 @@ Bloodlust
 Trinkets
 ```
 
-#### Tempest Keep
+</details>
 
-##### Al'ar
+<details>
+<summary><strong>Tempest Keep</strong></summary>
 
-###### Achtung
+#### Al'ar
+
+##### Achtung
 
 Meteor.
 
-###### Cooldowns
+##### Cooldowns
 
 Phase 2.
 
-##### Void Reaver
+#### Void Reaver
 
 - Perfekter Ret Fight.
 - 100% Uptime.
 
-###### Cooldowns
+##### Cooldowns
 
 Pull.
 
-##### Solarian
+#### Solarian
 
-###### Achtung
+##### Achtung
 
 Debuff rauslaufen.
 
-##### Kael'thas
+#### Kael'thas
 
-###### Phase 2
+##### Phase 2
 
 Waffen.
 
-###### Phase 3
+##### Phase 3
 
 Härtester DPS Check.
 
-###### Cooldowns
+##### Cooldowns
 
 Erster Einsatz:
 
@@ -967,13 +993,15 @@ Zweiter Einsatz:
 Kael
 ```
 
-###### Achtung
+##### Achtung
 
 - Thaladred: kiten.
 - Capernian: nicht im Feuer stehen.
 - Gravity Lapse: weiter DPS.
 
-### Gear Progression
+</details>
+
+### 🗡️ Gear Progression
 
 #### Phase 1
 
@@ -1014,7 +1042,7 @@ Kael
 - Brutallus Gear
 - Full BIS
 
-### Consumables
+### 🍖 Consumables
 
 #### Food
 
@@ -1044,7 +1072,7 @@ Super Mana Potion
 Strength V
 ```
 
-### Macros
+### ⌨️ Macros
 
 #### Crusader Strike
 
@@ -1079,7 +1107,7 @@ Strength V
 /startattack
 ```
 
-### Addons
+### 🧩 Addons
 
 #### Required
 
@@ -1095,7 +1123,7 @@ Strength V
 - Leatrix Plus
 - AtlasLoot
 
-### Golden Rules
+### ✅ Golden Rules
 
 - Niemals ohne Swing Timer spielen.
 - Seal Twisting üben.
@@ -1104,7 +1132,7 @@ Strength V
 - Consecration nur bei genug Mana.
 - Positionierung ist DPS.
 
-### Endgame Kurzfassung
+### 🏁 Endgame Kurzfassung
 
 ```text
 Hit Cap erreichen
@@ -1130,13 +1158,13 @@ Loot genießen
 
 ---
 
-## Notes
+## 📎 Notes
 
-- Put this directly into your `README.md`.
-- The `<details>` blocks are collapsible on GitHub. [web:19][web:11]
-- I used `open` only on the first section so the page still feels readable when someone lands on it. [web:19]
+- This is optimized for GitHub README rendering.
+- Emojis are used as section markers for faster scanning. [web:8][web:26]
+- Collapsible blocks keep the page clean while still allowing deep detail. [web:19][web:11]
 
-If you want, I can next turn this into an even cleaner version with:
-- a **shorter table of contents with jump links**,
-- **matching English-only section titles**, or
-- a **split version** with one README per class.
+If you want, I can next make this even more premium by adding:
+- badge row at the top,
+- a mini “quick reference” box,
+- or a fully split two-file version: `elemental-shaman.md` and `retribution-paladin.md`.
