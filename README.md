@@ -1,381 +1,1381 @@
-# World of Warcraft – The Burning Crusade Classic (Patch 2.5.x)
-## PvE Komplettguide · Alliance
-### Retribution Paladin · Elemental Shaman
+# WoW Classic TBC Complete PvE Guide
+## Alliance Edition
+### Elemental Shaman (70) & Retribution Paladin (70)
 
 ---
 
-# 🛡️ PALADIN
-_Retribution PvE Guide_
+# Inhaltsverzeichnis
+
+- Elemental Shaman
+  - Stat Prioritäten
+  - Raid Rolle
+  - Cooldown Nutzung
+  - Totem Sets
+  - SSC Guide
+  - TK Guide
+  - Gruul Guide
+  - Magtheridon Guide
+- Retribution Paladin
+  - Stat Prioritäten
+  - Seal Twisting
+  - Cooldowns
+  - Blessings
+  - Auren
+- Heroic Dungeons
+  - Hellfire Peninsula
+  - Coilfang Reservoir
+  - Auchindoun
+  - Caverns of Time
+  - Tempest Keep
 
 ---
 
-## 📊 Stat-Caps & Prioritäten
+# ⚡ Elemental Shaman
 
-### Retribution
-- Hit Cap: **9 %**
-- Expertise: sehr stark
-- Prio:
-  - Hit
-  - Weapon Damage
-  - Strength
-  - Crit
-  - Haste
+## Stat Prioritäten
 
----
+### Raid Setup
 
-## ⚔️ Core Skills
+1. Spell Hit
+2. Spell Damage
+3. Haste
+4. Critical Strike
+5. Intellect
+6. MP5
 
-- Seal of Blood / Command
-- Crusader Strike
-- Judgement
-- Consecration
-- Exorcism (nur Dämonen / Untote)
-- Avenging Wrath
+### Hit Cap
 
----
+#### Ohne Shadow Priest / Boomkin
 
-## 🚫 Nicht benutzen
+- 16% Spell Hit
 
-- Seal of Crusader
-- Holy Light als DPS-Heal
-- Consecration Spam bei Mana-Problemen
-- Exorcism auf normale Ziele
+#### Mit Elemental Precision
 
----
+- deutlich reduziert
 
-## 🔁 Rotation
+### Zielwerte
 
-### Solo
-- Seal → Judgement → Crusader Strike
-- Consecration optional
-
-### Dungeon
-- Judgement → Crusader Strike → Consecration
-
-### Raid
-- Crusader Strike
-- Judgement
-- Consecration bei genug Mana
-- Wings + Trinkets zusammen
+| Stat | Ziel |
+|--------|--------|
+| Spell Damage | 1000+ |
+| Crit | 20%+ |
+| Haste | so viel wie möglich |
+| Hit | Cap zuerst |
 
 ---
 
-## 🔔 Auren
+# Rotation
 
-### Solo
-- Retribution Aura
+## Single Target
 
-### Dungeon
-- Sanctity Aura
+### Standard
 
-### Raid
-- Sanctity Aura
-- situativ Devotion Aura
+```text
+Lightning Bolt
+Lightning Bolt
+Chain Lightning
+Lightning Bolt
+Lightning Bolt
+Chain Lightning
+```
 
----
+### Priorität
 
-## 🧱 Gear-Pfad
-
-### P1 (Karazhan)
-- Hellreaver
-- Lionheart Champion
-- Crystalforged Sword
-
-### P2 (SSC / TK)
-- Gorehowl
-- Cataclysm Edge
-- Dragonspine Trophy
-
-### P3–5
-- T5 → T6
-- Black Temple
-- Sunwell Plateau
+1. Totems aktiv halten
+2. Lightning Shield aktiv
+3. Chain Lightning auf Cooldown
+4. Lightning Bolt Spam
 
 ---
 
-## 🍖 Consumables
+## Multi Target
 
-### Food
-- Roasted Clefthoof
-
-### Flask
-- Flask of Relentless Assault
-
-### Potions
-- Haste Potion
-- Super Mana Potion
-
-### Trinkets
-- Dragonspine Trophy
-- Bloodlust Brooch
-- Madness of the Betrayer
+```text
+Chain Lightning
+Lightning Bolt
+Chain Lightning
+Fire Nova Totem
+```
 
 ---
 
-## 🔧 Berufe
+# Cooldowns
+
+## Elemental Mastery
+
+Immer verwenden:
+
+- Bloodlust
+- Heroism
+- Trinket Procs
+- DPS Checks
+
+Nicht verschwenden auf:
+
+- Trash
+- Adds die sofort sterben
+
+---
+
+## Bloodlust
 
 ### Optimal
-- Blacksmithing + Jewelcrafting
 
-### Alternativen
-- Engineering
-- Enchanting
-
----
-
-## 🐉 Raid-Aufgaben
-
-### Karazhan
-- Blessings aktiv halten
-- Utility helfen
-- Interrupts nutzen
-
-### SSC / TK
-- Burst auf Prioritätsziele
-- Cleave kontrollieren
-
-### Hyjal
-- Consecration Cleave
-- Adds kontrollieren
-
-### Black Temple
-- Cooldowns sauber rotieren
-- Aggro kontrollieren
-
-### Sunwell
-- Fehlerfrei spielen
-- maximale Uptime
-
----
-
-## ⚔️ Retribution Macros
-
-### Crusader Strike
-
-```lua
-#showtooltip Crusader Strike
-/startattack
-/cast Crusader Strike
-```
-
-### Judgement
-
-```lua
-#showtooltip Judgement
-/startattack
-/cast Judgement
-```
-
-### Wings Burst
-
-```lua
-#showtooltip Avenging Wrath
-/use 13
-/use 14
-/cast Avenging Wrath
-```
-
----
-
-# ⚡ SHAMAN
-_Elemental PvE Guide_
-
----
-
-## 📊 Stat-Caps & Prioritäten
-
-### Elemental
-- Hit Cap:
-  - mit Talenten reduziert
-- Prio:
-  - Spell Hit
-  - Spell Damage
-  - Haste
-  - Crit
-  - Intellect
-
----
-
-## ⚔️ Core Skills
-
-- Lightning Bolt
-- Chain Lightning
-- Totem of Wrath
-- Wrath of Air Totem
-- Mana Spring Totem
-- Elemental Mastery
-- Earth Shock
-- Bloodlust / Heroism
-- Lightning Shield
-
----
-
-## 🚫 Nicht benutzen
-
-- Flame Shock Spam
-- Earth Shock als reine DPS Rotation
-- Zu viele Totems neu setzen
-- Chain Lightning bei Mana-Problemen spammen
-
----
-
-## 🔁 Rotation
-
-### Solo
-- Lightning Bolt
-- Lightning Bolt
-- Chain Lightning
-
-#### Loop
-LB → LB → CL
-
----
-
-### Dungeon
-- Totems setzen
-- LB Spam
-- CL auf Cooldown
-- Earth Shock Interrupt
-
----
-
-### Raid
-- Lightning Bolt Spam
-- Chain Lightning auf CD
-- Totems aktiv halten
-- Bloodlust timen
-
----
-
-## 🪵 Totems
-
-### Solo
-- Wrath of Air Totem
-- Mana Spring Totem
-- Searing Totem
-
-### Dungeon (Caster)
-- Totem of Wrath
-- Mana Spring Totem
-- Searing Totem
-
-### Dungeon (Melee)
-- Windfury Totem
-- Mana Spring Totem
-- Searing Totem
-
-### Raid
-- Totem of Wrath
-- Mana Spring Totem
-- situativ Fire Totems
-
----
-
-## 🧱 Gear-Pfad
-
-### P1 (Karazhan)
-- Spellstrike Set
-- Totem of the Void
-- Icon of the Silver Crescent
-
-### P2 (SSC / TK)
-- T5 Set
-- Quagmirran’s Eye
-- Nexus-Key Gear
-
-### P3–5
-- T6
-- Black Temple
-- Sunwell Gear
-
----
-
-## 🍖 Consumables
-
-### Food
-- Blackened Basilisk
-
-### Flask
-- Flask of Blinding Light
-
-### Potions
-- Super Mana Potion
-- Destruction Potion
-
-### Weapon Buff
-- Flametongue Weapon
-
-### Trinkets
-- Icon of the Silver Crescent
-- Quagmirran’s Eye
-- Skull of Gul’dan
-
----
-
-## 📍 Positioning
-
-### Solo
-- mittlere Distanz
-- Vorcasten
-
-### Dungeon
-- hinter Tank
-- Totem Range beachten
-
-### Raid
-- feste Position
-- wenig Movement
-- Totems optimal platzieren
-
----
-
-## 🔥 Bloodlust / Heroism
-
-### Wann benutzen?
 - Boss Pull
-- Burst Phasen
-- Raid Call folgen
+- Burst Phase
+- Execute ähnliche Situationen
 
 ---
 
-## 🐉 Raid-Aufgaben
+# Totem Sets
 
-### Karazhan
-- Totems sauber halten
-- Interrupts nutzen
+## Caster Gruppe
 
-### SSC / TK
-- Totem Positionierung
-- Mana Management
+### Erde
 
-### Hyjal
-- CL Cleave sehr stark
-- Aggro kontrollieren
+```text
+Tremor Totem
+```
 
-### Black Temple
-- hoher Burst
-- Bloodlust richtig timen
+Alternative:
 
-### Sunwell
-- Movement + DPS Balance
-- Totem Uptime perfekt halten
+```text
+Strength of Earth
+```
+
+### Feuer
+
+```text
+Totem of Wrath
+```
+
+### Wasser
+
+```text
+Mana Spring Totem
+```
+
+### Luft
+
+```text
+Wrath of Air Totem
+```
+
+### Beste Gruppe
+
+- Mage
+- Warlock
+- Shadow Priest
+- Boomkin
 
 ---
 
-## 🔧 Berufe
+## Melee Gruppe
 
-### Optimal
-- Tailoring + Jewelcrafting
+### Erde
 
-### Alternativen
-- Enchanting
-- Alchemy
+```text
+Strength of Earth Totem
+```
+
+### Feuer
+
+```text
+Totem of Wrath
+```
+
+### Wasser
+
+```text
+Mana Spring Totem
+```
+
+### Luft
+
+```text
+Windfury Totem
+```
+
+### Beste Gruppe
+
+- Warrior
+- Rogue
+- Retribution Paladin
+- Enhancement Shaman
 
 ---
 
-## ⚡ Elemental Macros
+## Hunter + Druide Gruppe
 
-### Lightning Bolt
+### Erde
+
+```text
+Strength of Earth Totem
+```
+
+### Feuer
+
+```text
+Totem of Wrath
+```
+
+### Wasser
+
+```text
+Mana Spring Totem
+```
+
+### Luft
+
+```text
+Grace of Air Totem
+```
+
+### Warum?
+
+Hunter profitieren stärker von:
+
+- Agility
+- Crit
+- Attack Power Scaling
+
+als von Windfury.
+
+Feral Druiden profitieren ebenfalls stark von Agility.
+
+---
+
+# 🐉 Gruul's Lair
+
+## High King Maulgar
+
+### Rolle
+
+- Adds DPS
+- Danach Maulgar
+
+### Cooldowns
+
+Elemental Mastery:
+
+```text
+Krosh Firehand
+oder
+Maulgar nach Add Phase
+```
+
+### Achtung
+
+#### Blindeye
+
+- heilt
+- Fokus Target
+
+#### Olm
+
+- Fear
+
+Tremor Totem vorbereiten.
+
+---
+
+## Gruul
+
+### Rolle
+
+Purer DPS Check.
+
+### Positionierung
+
+- Max Range
+- Shatter beachten
+
+### Cooldowns
+
+Erster Einsatz:
+
+```text
+Boss Pull
+```
+
+oder
+
+```text
+nach erstem Ground Slam
+```
+
+Zweiter Einsatz:
+
+```text
+Growth 10+
+```
+
+### Achtung
+
+#### Ground Slam
+
+Sofort Cast stoppen.
+
+#### Shatter
+
+Spread.
+
+#### Cave In
+
+Sofort rauslaufen.
+
+---
+
+# ⛓️ Magtheridon's Lair
+
+## Magtheridon
+
+### Phase 1
+
+- Channeler töten
+- Interrupts koordinieren
+
+### Phase 2
+
+Boss aktiv.
+
+### Cooldowns
+
+Elemental Mastery:
+
+```text
+Sobald Magtheridon aktiv wird
+```
+
+zusammen mit:
+
+```text
+Bloodlust
+Trinkets
+Destruction Potion
+```
+
+### Cube Pflicht
+
+Wenn du Cube Spieler bist:
+
+```text
+Blast Nova hat Priorität über DPS
+```
+
+### Achtung
+
+#### Debris
+
+Nicht stehen bleiben.
+
+#### Blast Nova
+
+Muss unterbrochen werden.
+
+Fail = Raid Wipe.
+
+---
+
+# 🌊 Serpentshrine Cavern
+
+## Hydross the Unstable
+
+### Rolle
+
+Single Target DPS.
+
+### Cooldowns
+
+Direkt nach Transition.
+
+### Achtung
+
+Aggro Reset.
+
+Nicht zu früh laufen.
+
+---
+
+## The Lurker Below
+
+### Rolle
+
+Boss DPS.
+
+Adds während Submerge.
+
+### Cooldowns
+
+Nach erstem Spout.
+
+### Achtung
+
+#### Spout
+
+Rotation beobachten.
+
+Sofort bewegen.
+
+---
+
+## Leotheras the Blind
+
+### Rolle
+
+Boss DPS.
+
+### Wichtig
+
+Inner Demon:
+
+```text
+musst DU alleine töten
+```
+
+### Cooldowns
+
+Human Form.
+
+Nicht während:
+
+```text
+Whirlwind
+```
+
+---
+
+## Fathom-Lord Karathress
+
+### Rolle
+
+Adds zuerst.
+
+### Priorität
+
+1. Caribdis
+2. Tidalvess
+3. Rest
+
+### Achtung
+
+Spitfire Totem:
+
+```text
+Kill on Sight
+```
+
+### Cooldowns
+
+Auf erstes Priority Target.
+
+---
+
+## Morogrim Tidewalker
+
+### Rolle
+
+Boss DPS.
+
+### Murloc Wellen
+
+Chain Lightning nutzen.
+
+### Cooldowns
+
+Nach erster Murloc Welle.
+
+### Achtung
+
+#### Watery Grave
+
+Spieler werden eingesperrt.
+
+#### Earthquake
+
+Stuns beachten.
+
+---
+
+## Lady Vashj
+
+### Phase 1
+
+Boss DPS.
+
+### Phase 2
+
+- Naga
+- Strider
+- Tainted Core
+
+### Phase 3
+
+Boss Burn.
+
+### Cooldowns
+
+Elemental Mastery:
+
+```text
+Phase 3
+```
+
+mit:
+
+```text
+Bloodlust
+Trinkets
+```
+
+### Achtung
+
+#### Tainted Core
+
+Sofort aufnehmen.
+
+#### Strider
+
+Kite Support.
+
+#### Spore Bats
+
+Priorität.
+
+# 🌌 Tempest Keep (The Eye)
+
+---
+
+## Al'ar
+
+### Rolle
+
+- Single Target DPS
+- Plattformwechsel beachten
+
+### Phase 1
+
+- Boss auf aktueller Plattform angreifen
+- Position wechseln sobald Tank springt
+
+### Phase 2
+
+- Boss DPS
+- Embers cleaven
+
+### Cooldowns
+
+Elemental Mastery:
+
+```text
+Direkt zu Beginn von Phase 2
+```
+
+zusammen mit:
+
+```text
+Bloodlust
+Trinkets
+```
+
+### Achtung
+
+#### Meteor
+
+```text
+Sofort weglaufen
+```
+
+#### Flame Patch
+
+```text
+Nicht stehen bleiben
+```
+
+---
+
+## Void Reaver
+
+### Rolle
+
+Purer DPS Fight.
+
+### Positionierung
+
+```text
+Max Range
+```
+
+### Cooldowns
+
+Erster Einsatz:
+
+```text
+Boss Pull
+```
+
+Zweiter Einsatz:
+
+```text
+Sobald bereit
+```
+
+### Achtung
+
+#### Arcane Orb
+
+```text
+Permanent bewegen
+```
+
+Orb Treffer vermeiden.
+
+---
+
+## High Astromancer Solarian
+
+### Rolle
+
+Boss DPS.
+
+Add Wellen schnell töten.
+
+### Cooldowns
+
+Nach erster Add Phase.
+
+### Achtung
+
+#### Wrath of the Astromancer
+
+Wenn Debuff aktiv:
+
+```text
+SOFORT aus der Gruppe laufen
+```
+
+Explosion nach wenigen Sekunden.
+
+---
+
+## Kael'thas Sunstrider
+
+### Phase 1
+
+Berater einzeln.
+
+### Phase 2
+
+Legendäre Waffen.
+
+### Phase 3
+
+Alle Berater gleichzeitig.
+
+### Phase 4
+
+Kael selbst.
+
+### Phase 5
+
+Gravity Lapse.
+
+---
+
+### Cooldowns
+
+#### Erster Einsatz
+
+```text
+Phase 3
+```
+
+Härtester DPS Check.
+
+#### Zweiter Einsatz
+
+```text
+Phase 4 oder 5
+```
+
+auf Kael.
+
+---
+
+### Achtung
+
+#### Staff of Disintegration
+
+Looten.
+
+Wichtig für Caster.
+
+---
+
+#### Thaladred
+
+Fixiert Spieler.
+
+```text
+Kiten
+```
+
+---
+
+#### Capernian
+
+Conflagration.
+
+```text
+Interrupt wenn möglich
+```
+
+---
+
+#### Gravity Lapse
+
+- Schweben
+- Kugeln ausweichen
+- DPS halten
+
+---
+
+# 🔥 Heroic Dungeon Guide
+
+---
+
+# Hellfire Ramparts
+
+## Schwierigkeit
+
+```text
+Einfach
+```
+
+---
+
+## Gargolmar
+
+### Priorität
+
+1. Heiler Add
+2. Restliche Adds
+3. Boss
+
+---
+
+## Omor
+
+### Achtung
+
+#### Treacherous Aura
+
+Abstand halten.
+
+#### Felhounds
+
+Schnell töten.
+
+---
+
+## Vazruden & Nazan
+
+### Phase 1
+
+Vazruden.
+
+### Phase 2
+
+Nazan landet.
+
+### Achtung
+
+#### Fire Patch
+
+Rauslaufen.
+
+---
+
+# Blood Furnace
+
+## Schwierigkeit
+
+```text
+Einfach bis Mittel
+```
+
+---
+
+## The Maker
+
+### Achtung
+
+Mind Control.
+
+Nicht angreifen wenn kontrolliert.
+
+---
+
+## Broggok
+
+### Rolle
+
+Chain Lightning sehr stark.
+
+Add Wellen priorisieren.
+
+---
+
+## Keli'dan
+
+### Achtung
+
+#### Burning Nova
+
+Wenn Channel startet:
+
+```text
+SOFORT raus
+```
+
+---
+
+# Shattered Halls
+
+## Schwierigkeit
+
+```text
+Hoch
+```
+
+---
+
+## Trash
+
+### Wichtig
+
+Scout sofort töten.
+
+Wenn nicht:
+
+```text
+Halbe Instanz kommt
+```
+
+---
+
+## Nethekurse
+
+### Achtung
+
+Shadow Sear.
+
+Abstand halten.
+
+---
+
+## O'mrogg
+
+### Achtung
+
+Aggro Wechsel.
+
+Nicht blind weitercasten.
+
+---
+
+## Kargath Bladefist
+
+### Achtung
+
+Blade Dance.
+
+```text
+Max Range
+```
+
+---
+
+# Slave Pens
+
+## Schwierigkeit
+
+```text
+Mittel
+```
+
+---
+
+## Mennu
+
+### Priorität
+
+Totems töten.
+
+Besonders:
+
+```text
+Healing Totem
+```
+
+---
+
+## Rokmar
+
+### Achtung
+
+Grievous Wound.
+
+Heiler müssen Ziel vollheilen.
+
+---
+
+## Quagmirran
+
+### Achtung
+
+Poison Volley.
+
+Nicht vor Boss stehen.
+
+---
+
+# Underbog
+
+## Schwierigkeit
+
+```text
+Mittel
+```
+
+---
+
+## Hungarfen
+
+### Achtung
+
+Mushrooms meiden.
+
+---
+
+## Ghaz'an
+
+### Achtung
+
+Frontal Cone.
+
+Nie vor Boss.
+
+---
+
+## Musel'ek
+
+### Achtung
+
+Fear.
+
+Tremor Totem.
+
+---
+
+## Black Stalker
+
+### Achtung
+
+Chain Lightning.
+
+Spread halten.
+
+---
+
+# Steamvault
+
+## Schwierigkeit
+
+```text
+Hoch
+```
+
+---
+
+## Hydromancer Thespia
+
+### Priorität
+
+Elementals töten.
+
+---
+
+## Steamrigger
+
+### Priorität
+
+Adds sofort töten.
+
+---
+
+## Kalithresh
+
+### Wichtig
+
+Naga Distiller zerstören.
+
+```text
+Sofort
+```
+
+sonst Boss Buff.
+
+---
+
+# Mana Tombs
+
+## Schwierigkeit
+
+```text
+Mittel-Hoch
+```
+
+---
+
+## Pandemonius
+
+### Dark Shell
+
+Wenn aktiv:
+
+```text
+STOP DPS
+```
+
+---
+
+## Tavarok
+
+### Achtung
+
+Crystal Prison.
+
+Earthquake meiden.
+
+---
+
+## Nexus-Prince Shaffar
+
+### Priorität
+
+Beacons töten.
+
+Dann Boss.
+
+---
+
+# Auchenai Crypts
+
+## Schwierigkeit
+
+```text
+Mittel
+```
+
+---
+
+## Shirrak
+
+### Wichtig
+
+```text
+Max Range
+```
+
+stehen.
+
+---
+
+## Maladaar
+
+### Priorität
+
+Clone töten.
+
+Dann Boss.
+
+---
+
+# Sethekk Halls
+
+## Schwierigkeit
+
+```text
+Mittel-Hoch
+```
+
+---
+
+## Darkweaver Syth
+
+Adds bei:
+
+- 75 %
+- 50 %
+- 25 %
+
+AOE nutzen.
+
+---
+
+## Talon King Ikiss
+
+### Arcane Explosion
+
+Blink zur Mitte.
+
+```text
+Hinter Säule
+```
+
+---
+
+# Shadow Labyrinth
+
+## Schwierigkeit
+
+```text
+Hoch
+```
+
+---
+
+## Hellmaw
+
+Fear.
+
+```text
+Tremor Totem
+```
+
+---
+
+## Blackheart
+
+Incite Chaos.
+
+Kompletter Gruppenkampf.
+
+Nicht vermeidbar.
+
+---
+
+## Vorpil
+
+### Achtung
+
+Rain of Fire.
+
+Voidwalker Adds töten.
+
+---
+
+## Murmur
+
+### Sonic Boom
+
+Ausweichen.
+
+### Murmur's Touch
+
+Von Gruppe entfernen.
+
+---
+
+# Old Hillsbrad
+
+## Schwierigkeit
+
+```text
+Mittel
+```
+
+---
+
+## Lieutenant Drake
+
+Tank & Spank.
+
+---
+
+## Captain Skarloc
+
+Consecration meiden.
+
+---
+
+## Epoch Hunter
+
+Frontal Attacken meiden.
+
+Adds cleaven.
+
+---
+
+# Black Morass
+
+## Schwierigkeit
+
+```text
+Hoch
+```
+
+---
+
+## Chrono Lord Deja
+
+Schnell bursten.
+
+---
+
+## Temporus
+
+Burn Fight.
+
+---
+
+## Aeonus
+
+Event Boss.
+
+Max DPS.
+
+---
+
+# Mechanar
+
+## Schwierigkeit
+
+```text
+Mittel
+```
+
+---
+
+## Capacitus
+
+### Shield aktiv
+
+```text
+STOP CASTS
+```
+
+---
+
+## Sepethrea
+
+Infernos kiten.
+
+---
+
+## Pathaleon
+
+Mind Control beachten.
+
+---
+
+# Botanica
+
+## Schwierigkeit
+
+```text
+Mittel
+```
+
+---
+
+## Sarannis
+
+Adds priorisieren.
+
+---
+
+## Freywinn
+
+Seedlings töten.
+
+---
+
+## Thorngrin
+
+Sacrifice.
+
+Burn.
+
+---
+
+## Laj
+
+Teleport.
+
+Aggro beachten.
+
+---
+
+## Warp Splinter
+
+Treants töten.
+
+Dann Boss.
+
+---
+
+# Arcatraz
+
+## Schwierigkeit
+
+```text
+Sehr Hoch
+```
+
+---
+
+## Zereketh
+
+Void Zones meiden.
+
+---
+
+## Dalliah
+
+Whirlwind.
+
+Abstand.
+
+---
+
+## Soccothrates
+
+Charge.
+
+Felfire meiden.
+
+---
+
+## Skyriss
+
+Klone bei:
+
+- 66 %
+- 33 %
+
+Priorität:
+
+```text
+Klone > Boss
+```
+
+---
+
+# ⚡ Elemental Shaman Macros
+
+## Lightning Bolt
 
 ```lua
 #showtooltip Lightning Bolt
@@ -383,7 +1383,9 @@ LB → LB → CL
 /cast Lightning Bolt
 ```
 
-### Chain Lightning + Elemental Mastery
+---
+
+## Elemental Mastery Burst
 
 ```lua
 #showtooltip Chain Lightning
@@ -392,7 +1394,9 @@ LB → LB → CL
 /cast Chain Lightning
 ```
 
-### Earth Shock Interrupt
+---
+
+## Earth Shock Interrupt
 
 ```lua
 #showtooltip Earth Shock
@@ -400,28 +1404,9 @@ LB → LB → CL
 /cast Earth Shock
 ```
 
-### Solo Totem Macro
+---
 
-```lua
-#showtooltip Wrath of Air Totem
-/castsequence reset=6 Wrath of Air Totem, Mana Spring Totem
-```
-
-### Dungeon / Raid Totem Macro
-
-```lua
-#showtooltip Totem of Wrath
-/castsequence reset=6 Totem of Wrath, Mana Spring Totem
-```
-
-### Searing Totem
-
-```lua
-#showtooltip Searing Totem
-/cast Searing Totem
-```
-
-### Bloodlust
+## Bloodlust Burst
 
 ```lua
 #showtooltip Bloodlust
@@ -432,30 +1417,868 @@ LB → LB → CL
 
 ---
 
-# 🏆 BESTE ADDONS
+## Caster Totem Set
 
-## Beide Klassen
+```lua
+#showtooltip Totem of Wrath
+/castsequence reset=6 Tremor Totem, Totem of Wrath, Mana Spring Totem, Wrath of Air Totem
+```
 
-- Questie
-- Details!
+---
+
+## Melee Totem Set
+
+```lua
+#showtooltip Strength of Earth Totem
+/castsequence reset=6 Strength of Earth Totem, Totem of Wrath, Mana Spring Totem, Windfury Totem
+```
+
+---
+
+## Hunter + Druiden Totem Set
+
+```lua
+#showtooltip Strength of Earth Totem
+/castsequence reset=6 Strength of Earth Totem, Totem of Wrath, Mana Spring Totem, Grace of Air Totem
+```
+
+# 🛡️ Retribution Paladin
+
+## PvE Guide (Level 70)
+
+---
+
+# Stat Prioritäten
+
+## Hit Cap
+
+### Raid Bosses
+
+- 9% Hit
+
+### Danach
+
+1. Strength
+2. Weapon Damage
+3. Expertise
+4. Crit
+5. Haste
+
+---
+
+# Attribute Priorität
+
+## Phase 1
+
+```text
+Hit > Strength > Crit > AP
+```
+
+## Phase 2+
+
+```text
+Hit > Strength > Expertise > Crit > Haste
+```
+
+---
+
+# Seal Twisting Guide
+
+## Was ist Seal Twisting?
+
+Seal Twisting ist die wichtigste DPS-Technik eines Retribution Paladins in TBC.
+
+Dabei nutzt du das kurze interne Fenster zwischen zwei Seals, um bei einem einzigen Nahkampfschlag von beiden Seals zu profitieren.
+
+---
+
+## Standard Twist
+
+### Basis
+
+```text
+Seal of Command
+```
+
+### Twist
+
+Kurz vor dem Waffenschwung:
+
+```text
+Seal of Righteousness
+```
+
+---
+
+## Horde Variante
+
+(Historisch mit Seal of Blood)
+
+```text
+Seal of Command
+↓
+Seal of Blood kurz vor Swing
+```
+
+---
+
+## Alliance Variante
+
+Da du Allianz spielst:
+
+```text
+Seal of Command
+↓
+Seal of Righteousness
+```
+
+---
+
+# Swing Timer
+
+## Pflicht Addons
+
+- WeaponSwingTimer
+- Quartz
+- WeakAura Swing Bar
+
+---
+
+## Timing
+
+### Perfekter Twist
+
+```text
+0.3 - 0.4 Sekunden
+vor dem Autoattack
+```
+
+---
+
+## Zu früh
+
+```text
+DPS Verlust
+```
+
+---
+
+## Zu spät
+
+```text
+Twist verpasst
+```
+
+---
+
+# Beispiel
+
+```text
+Autoattack läuft
+
+3...
+2...
+1...
+
+0.4 Sekunden vor Treffer
+
+Seal of Righteousness
+
+↓
+
+Swing landet
+
+↓
+
+Zurück zu Seal of Command
+```
+
+---
+
+# Rotation
+
+## Solo
+
+```text
+Seal of Command
+Judgement
+Crusader Strike
+Auto Attack
+Twist
+```
+
+---
+
+## Dungeon
+
+```text
+Judgement
+Crusader Strike
+Seal Twist
+Consecration
+```
+
+---
+
+## Raid
+
+Priorität:
+
+1. Crusader Strike
+2. Judgement
+3. Seal Twist
+4. Consecration
+5. Exorcism (Dämonen/Untote)
+
+---
+
+# Cooldowns
+
+## Avenging Wrath
+
+Nutzen:
+
+```text
+Boss Pull
+```
+
+oder
+
+```text
+Bloodlust Phase
+```
+
+---
+
+## Trinkets
+
+Immer stacken mit:
+
+```text
+Avenging Wrath
+```
+
+---
+
+## Haste Potion
+
+Zusammen mit:
+
+```text
+Bloodlust
+Avenging Wrath
+DST Proc
+```
+
+---
+
+# Auren
+
+## Solo
+
+```text
+Retribution Aura
+```
+
+---
+
+## Dungeon
+
+```text
+Sanctity Aura
+```
+
+---
+
+## Raid
+
+```text
+Sanctity Aura
+```
+
+---
+
+## Situativ
+
+### Tank Schaden
+
+```text
+Devotion Aura
+```
+
+### Magieschaden
+
+```text
+Shadow Resistance Aura
+```
+
+oder
+
+```text
+Fire Resistance Aura
+```
+
+---
+
+# Blessings
+
+## Caster Gruppe
+
+### Standard
+
+```text
+Blessing of Wisdom
+```
+
+---
+
+### Alternative
+
+```text
+Blessing of Salvation
+```
+
+---
+
+# Melee Gruppe
+
+### Standard
+
+```text
+Blessing of Might
+```
+
+---
+
+# Druiden + Hunter
+
+## Feral
+
+```text
+Blessing of Might
+```
+
+## Balance
+
+```text
+Blessing of Wisdom
+```
+
+## Hunter
+
+```text
+Blessing of Might
+```
+
+---
+
+# Raid Guides
+
+# 🐉 Gruul's Lair
+
+---
+
+## High King Maulgar
+
+### Rolle
+
+- Adds DPS
+- Danach Maulgar
+
+### Cooldowns
+
+Nicht auf erste Adds verschwenden.
+
+Nutzen:
+
+```text
+Maulgar
+```
+
+---
+
+### Achtung
+
+#### Whirlwind
+
+Nicht stehen bleiben.
+
+#### Aggro
+
+Burst kontrollieren.
+
+---
+
+## Gruul
+
+### Rolle
+
+Purer DPS Fight.
+
+---
+
+### Cooldowns
+
+#### Pull
+
+```text
+Avenging Wrath
+```
+
+---
+
+#### Bloodlust
+
+Trinkets stacken.
+
+---
+
+### Achtung
+
+#### Ground Slam
+
+Position merken.
+
+---
+
+#### Shatter
+
+Sofort Abstand.
+
+---
+
+# ⛓️ Magtheridon's Lair
+
+---
+
+## Magtheridon
+
+### Phase 1
+
+Adds kontrollieren.
+
+---
+
+### Phase 2
+
+Volle DPS.
+
+---
+
+### Cooldowns
+
+Wenn aktiv:
+
+```text
+Magtheridon + Bloodlust
+```
+
+---
+
+### Achtung
+
+#### Blast Nova
+
+Cube Spieler unterstützen.
+
+---
+
+#### Debris
+
+Bewegen.
+
+---
+
+# 🌊 SSC
+
+---
+
+## Hydross
+
+### Cooldowns
+
+Nach Transition.
+
+---
+
+### Achtung
+
+Aggro Reset.
+
+---
+
+## Lurker Below
+
+### Achtung
+
+#### Spout
+
+Immer Bewegung.
+
+---
+
+### Cooldowns
+
+Nach erstem Spout.
+
+---
+
+## Leotheras
+
+### Achtung
+
+#### Whirlwind
+
+Kein Melee Kontakt.
+
+---
+
+### Cooldowns
+
+Human Form.
+
+---
+
+## Karathress
+
+### Priorität
+
+Adds.
+
+---
+
+### Achtung
+
+Totems töten.
+
+---
+
+## Morogrim
+
+### Rolle
+
+Murloc Support.
+
+---
+
+### Cooldowns
+
+Nach erster Murloc Welle.
+
+---
+
+## Lady Vashj
+
+### Phase 1
+
+Kontrollierte DPS.
+
+---
+
+### Phase 2
+
+Adds.
+
+---
+
+### Phase 3
+
+Boss Burn.
+
+---
+
+### Cooldowns
+
+```text
+Phase 3
+```
+
+mit:
+
+```text
+Bloodlust
+Trinkets
+```
+
+---
+
+# 🌌 Tempest Keep
+
+---
+
+## Al'ar
+
+### Achtung
+
+Meteor.
+
+---
+
+### Cooldowns
+
+Phase 2.
+
+---
+
+## Void Reaver
+
+### Perfekter Ret Fight
+
+100% Uptime.
+
+---
+
+### Cooldowns
+
+Pull.
+
+---
+
+## Solarian
+
+### Achtung
+
+Debuff rauslaufen.
+
+---
+
+## Kael'thas
+
+### Phase 2
+
+Waffen.
+
+---
+
+### Phase 3
+
+Härtester DPS Check.
+
+---
+
+### Cooldowns
+
+Erster Einsatz:
+
+```text
+Phase 3
+```
+
+Zweiter Einsatz:
+
+```text
+Kael
+```
+
+---
+
+### Achtung
+
+#### Thaladred
+
+Kiten.
+
+---
+
+#### Capernian
+
+Nicht im Feuer stehen.
+
+---
+
+#### Gravity Lapse
+
+Weiter DPS.
+
+---
+
+# Gear Progression
+
+---
+
+# Phase 1
+
+## Karazhan
+
+- Lionheart Champion
+- Hellreaver
+- Crystalforged Sword
+
+---
+
+## Trinkets
+
+- Bloodlust Brooch
+- Abacus of Violent Odds
+
+---
+
+# Phase 2
+
+## SSC/TK
+
+- Gorehowl
+- Cataclysm Edge
+- Dragonspine Trophy
+
+---
+
+# Phase 3
+
+## Hyjal
+
+- T6 Set
+
+---
+
+## Black Temple
+
+- Madness of the Betrayer
+
+---
+
+# Phase 5
+
+## Sunwell
+
+- Apolyon
+- Brutallus Gear
+- Full BIS
+
+---
+
+# Consumables
+
+## Food
+
+```text
+Roasted Clefthoof
+```
+
+---
+
+## Flask
+
+```text
+Flask of Relentless Assault
+```
+
+---
+
+## Potions
+
+```text
+Haste Potion
+```
+
+```text
+Super Mana Potion
+```
+
+---
+
+## Scrolls
+
+```text
+Strength V
+```
+
+---
+
+# Macros
+
+## Crusader Strike
+
+```lua
+#showtooltip Crusader Strike
+/startattack
+/cast Crusader Strike
+```
+
+---
+
+## Judgement
+
+```lua
+#showtooltip Judgement
+/startattack
+/cast Judgement
+```
+
+---
+
+## Avenging Wrath Burst
+
+```lua
+#showtooltip Avenging Wrath
+/use 13
+/use 14
+/cast Avenging Wrath
+```
+
+---
+
+## Seal Twist Helper
+
+```lua
+#showtooltip Seal of Righteousness
+/cast Seal of Righteousness
+/startattack
+```
+
+---
+
+# Addons
+
+## Pflicht
+
 - WeakAuras
 - Quartz
-- OmniCC
+- WeaponSwingTimer
 - DBM
+- Details
 
 ---
 
-# 💡 GOLDENE TBC REGELN
+## Optional
+
+- OmniCC
+- Leatrix Plus
+- AtlasLoot
+
+---
+
+# Goldene Regeln
 
 ## Retribution
-- Mana managen
-- nicht overaggro gehen
-- Cooldowns sinnvoll nutzen
 
-## Elemental
-- Totems effizient setzen
-- LB Spam = Hauptschaden
-- Positioning extrem wichtig
-- nicht unnötig bewegen
+- Niemals ohne Swing Timer spielen
+- Seal Twisting üben
+- Cooldowns stacken
+- Nicht overaggro gehen
+- Consecration nur bei genug Mana
+- Positionierung ist DPS
 
 ---
+
+## Endgame Kurzfassung
+
+```text
+Hit Cap erreichen
+
+↓
+
+Seal Twisting meistern
+
+↓
+
+Cooldowns stacken
+
+↓
+
+100% Uptime
+
+↓
+
+Loot genießen
+```
