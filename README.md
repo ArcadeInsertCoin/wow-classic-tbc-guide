@@ -1,10 +1,10 @@
-# WoW Classic TBC Complete PvE Guide
-## Alliance Edition
-### Elemental Shaman (70) & Retribution Paladin (70)
+## WoW Classic TBC Complete PvE Guide
+### Alliance Edition
+#### Elemental Shaman (70) & Retribution Paladin (70)
 
 ---
 
-# Inhaltsverzeichnis
+## Inhaltsverzeichnis
 
 - Elemental Shaman
   - Stat Prioritäten
@@ -30,11 +30,11 @@
 
 ---
 
-# ⚡ Elemental Shaman
+## ⚡ Elemental Shaman
 
-## Stat Prioritäten
+### Stat Prioritäten
 
-### Raid Setup
+#### Raid Setup
 
 1. Spell Hit
 2. Spell Damage
@@ -64,11 +64,11 @@
 
 ---
 
-# Rotation
+## Rotation
 
-## Single Target
+### Single Target
 
-### Standard
+#### Standard
 
 ```text
 Lightning Bolt
@@ -79,7 +79,7 @@ Lightning Bolt
 Chain Lightning
 ```
 
-### Priorität
+#### Priorität
 
 1. Totems aktiv halten
 2. Lightning Shield aktiv
@@ -88,7 +88,7 @@ Chain Lightning
 
 ---
 
-## Multi Target
+### Multi Target
 
 ```text
 Chain Lightning
@@ -99,9 +99,9 @@ Fire Nova Totem
 
 ---
 
-# Cooldowns
+## Cooldowns
 
-## Elemental Mastery
+### Elemental Mastery
 
 Immer verwenden:
 
@@ -117,9 +117,9 @@ Nicht verschwenden auf:
 
 ---
 
-## Bloodlust
+### Bloodlust
 
-### Optimal
+#### Optimal
 
 - Boss Pull
 - Burst Phase
@@ -127,11 +127,11 @@ Nicht verschwenden auf:
 
 ---
 
-# Totem Sets
+## Totem Sets
 
 ## Caster Gruppe
 
-### Erde
+#### Erde
 
 ```text
 Tremor Totem
@@ -143,25 +143,25 @@ Alternative:
 Strength of Earth
 ```
 
-### Feuer
+#### Feuer
 
 ```text
 Totem of Wrath
 ```
 
-### Wasser
+#### Wasser
 
 ```text
 Mana Spring Totem
 ```
 
-### Luft
+#### Luft
 
 ```text
 Wrath of Air Totem
 ```
 
-### Beste Gruppe
+#### Beste Gruppe
 
 - Mage
 - Warlock
@@ -170,33 +170,33 @@ Wrath of Air Totem
 
 ---
 
-## Melee Gruppe
+### Melee Gruppe
 
-### Erde
+#### Erde
 
 ```text
 Strength of Earth Totem
 ```
 
-### Feuer
+#### Feuer
 
 ```text
 Totem of Wrath
 ```
 
-### Wasser
+#### Wasser
 
 ```text
 Mana Spring Totem
 ```
 
-### Luft
+#### Luft
 
 ```text
 Windfury Totem
 ```
 
-### Beste Gruppe
+#### Beste Gruppe
 
 - Warrior
 - Rogue
@@ -205,33 +205,33 @@ Windfury Totem
 
 ---
 
-## Hunter + Druide Gruppe
+### Hunter + Druide Gruppe
 
-### Erde
+#### Erde
 
 ```text
 Strength of Earth Totem
 ```
 
-### Feuer
+#### Feuer
 
 ```text
 Totem of Wrath
 ```
 
-### Wasser
+#### Wasser
 
 ```text
 Mana Spring Totem
 ```
 
-### Luft
+#### Luft
 
 ```text
 Grace of Air Totem
 ```
 
-### Warum?
+#### Warum?
 
 Hunter profitieren stärker von:
 
@@ -247,14 +247,14 @@ Feral Druiden profitieren ebenfalls stark von Agility.
 
 # 🐉 Gruul's Lair
 
-## High King Maulgar
+### High King Maulgar
 
-### Rolle
+#### Rolle
 
 - Adds DPS
 - Danach Maulgar
 
-### Cooldowns
+#### Cooldowns
 
 Elemental Mastery:
 
@@ -264,7 +264,7 @@ oder
 Maulgar nach Add Phase
 ```
 
-### Achtung
+#### Achtung
 
 #### Blindeye
 
@@ -279,18 +279,18 @@ Tremor Totem vorbereiten.
 
 ---
 
-## Gruul
+### Gruul
 
-### Rolle
+#### Rolle
 
 Purer DPS Check.
 
-### Positionierung
+#### Positionierung
 
 - Max Range
 - Shatter beachten
 
-### Cooldowns
+#### Cooldowns
 
 Erster Einsatz:
 
@@ -310,36 +310,36 @@ Zweiter Einsatz:
 Growth 10+
 ```
 
-### Achtung
+#### Achtung
 
-#### Ground Slam
+##### Ground Slam
 
 Sofort Cast stoppen.
 
-#### Shatter
+##### Shatter
 
 Spread.
 
-#### Cave In
+##### Cave In
 
 Sofort rauslaufen.
 
 ---
 
-# ⛓️ Magtheridon's Lair
+## ⛓️ Magtheridon's Lair
 
-## Magtheridon
+### Magtheridon
 
-### Phase 1
+#### Phase 1
 
 - Channeler töten
 - Interrupts koordinieren
 
-### Phase 2
+#### Phase 2
 
 Boss aktiv.
 
-### Cooldowns
+#### Cooldowns
 
 Elemental Mastery:
 
@@ -355,7 +355,7 @@ Trinkets
 Destruction Potion
 ```
 
-### Cube Pflicht
+#### Cube Pflicht
 
 Wenn du Cube Spieler bist:
 
@@ -363,13 +363,13 @@ Wenn du Cube Spieler bist:
 Blast Nova hat Priorität über DPS
 ```
 
-### Achtung
+#### Achtung
 
-#### Debris
+##### Debris
 
 Nicht stehen bleiben.
 
-#### Blast Nova
+##### Blast Nova
 
 Muss unterbrochen werden.
 
@@ -377,19 +377,19 @@ Fail = Raid Wipe.
 
 ---
 
-# 🌊 Serpentshrine Cavern
+## 🌊 Serpentshrine Cavern
 
-## Hydross the Unstable
+### Hydross the Unstable
 
-### Rolle
+#### Rolle
 
 Single Target DPS.
 
-### Cooldowns
+####Cooldowns
 
 Direkt nach Transition.
 
-### Achtung
+#### Achtung
 
 Aggro Reset.
 
@@ -397,21 +397,21 @@ Nicht zu früh laufen.
 
 ---
 
-## The Lurker Below
+### The Lurker Below
 
-### Rolle
+#### Rolle
 
 Boss DPS.
 
 Adds während Submerge.
 
-### Cooldowns
+#### Cooldowns
 
 Nach erstem Spout.
 
-### Achtung
+#### Achtung
 
-#### Spout
+##### Spout
 
 Rotation beobachten.
 
@@ -419,13 +419,13 @@ Sofort bewegen.
 
 ---
 
-## Leotheras the Blind
+### Leotheras the Blind
 
-### Rolle
+#### Rolle
 
 Boss DPS.
 
-### Wichtig
+#### Wichtig
 
 Inner Demon:
 
@@ -433,7 +433,7 @@ Inner Demon:
 musst DU alleine töten
 ```
 
-### Cooldowns
+#### Cooldowns
 
 Human Form.
 
@@ -445,19 +445,19 @@ Whirlwind
 
 ---
 
-## Fathom-Lord Karathress
+### Fathom-Lord Karathress
 
-### Rolle
+#### Rolle
 
 Adds zuerst.
 
-### Priorität
+#### Priorität
 
 1. Caribdis
 2. Tidalvess
 3. Rest
 
-### Achtung
+#### Achtung
 
 Spitfire Totem:
 
@@ -465,55 +465,55 @@ Spitfire Totem:
 Kill on Sight
 ```
 
-### Cooldowns
+#### Cooldowns
 
 Auf erstes Priority Target.
 
 ---
 
-## Morogrim Tidewalker
+### Morogrim Tidewalker
 
-### Rolle
+#### Rolle
 
 Boss DPS.
 
-### Murloc Wellen
+#### Murloc Wellen
 
 Chain Lightning nutzen.
 
-### Cooldowns
+#### Cooldowns
 
 Nach erster Murloc Welle.
 
-### Achtung
+#### Achtung
 
-#### Watery Grave
+##### Watery Grave
 
 Spieler werden eingesperrt.
 
-#### Earthquake
+##### Earthquake
 
 Stuns beachten.
 
 ---
 
-## Lady Vashj
+### Lady Vashj
 
-### Phase 1
+#### Phase 1
 
 Boss DPS.
 
-### Phase 2
+#### Phase 2
 
 - Naga
 - Strider
 - Tainted Core
 
-### Phase 3
+#### Phase 3
 
 Boss Burn.
 
-### Cooldowns
+#### Cooldowns
 
 Elemental Mastery:
 
@@ -528,42 +528,42 @@ Bloodlust
 Trinkets
 ```
 
-### Achtung
+#### Achtung
 
-#### Tainted Core
+##### Tainted Core
 
 Sofort aufnehmen.
 
-#### Strider
+##### Strider
 
 Kite Support.
 
-#### Spore Bats
+##### Spore Bats
 
 Priorität.
 
-# 🌌 Tempest Keep (The Eye)
+## 🌌 Tempest Keep (The Eye)
 
 ---
 
-## Al'ar
+### Al'ar
 
-### Rolle
+#### Rolle
 
 - Single Target DPS
 - Plattformwechsel beachten
 
-### Phase 1
+#### Phase 1
 
 - Boss auf aktueller Plattform angreifen
 - Position wechseln sobald Tank springt
 
-### Phase 2
+#### Phase 2
 
 - Boss DPS
 - Embers cleaven
 
-### Cooldowns
+#### Cooldowns
 
 Elemental Mastery:
 
@@ -578,15 +578,15 @@ Bloodlust
 Trinkets
 ```
 
-### Achtung
+#### Achtung
 
-#### Meteor
+##### Meteor
 
 ```text
 Sofort weglaufen
 ```
 
-#### Flame Patch
+##### Flame Patch
 
 ```text
 Nicht stehen bleiben
@@ -594,19 +594,19 @@ Nicht stehen bleiben
 
 ---
 
-## Void Reaver
+### Void Reaver
 
-### Rolle
+#### Rolle
 
 Purer DPS Fight.
 
-### Positionierung
+#### Positionierung
 
 ```text
 Max Range
 ```
 
-### Cooldowns
+#### Cooldowns
 
 Erster Einsatz:
 
@@ -620,9 +620,9 @@ Zweiter Einsatz:
 Sobald bereit
 ```
 
-### Achtung
+#### Achtung
 
-#### Arcane Orb
+##### Arcane Orb
 
 ```text
 Permanent bewegen
@@ -632,21 +632,21 @@ Orb Treffer vermeiden.
 
 ---
 
-## High Astromancer Solarian
+### High Astromancer Solarian
 
-### Rolle
+#### Rolle
 
 Boss DPS.
 
 Add Wellen schnell töten.
 
-### Cooldowns
+#### Cooldowns
 
 Nach erster Add Phase.
 
-### Achtung
+#### Achtung
 
-#### Wrath of the Astromancer
+##### Wrath of the Astromancer
 
 Wenn Debuff aktiv:
 
@@ -658,33 +658,33 @@ Explosion nach wenigen Sekunden.
 
 ---
 
-## Kael'thas Sunstrider
+### Kael'thas Sunstrider
 
-### Phase 1
+#### Phase 1
 
 Berater einzeln.
 
-### Phase 2
+#### Phase 2
 
 Legendäre Waffen.
 
-### Phase 3
+#### Phase 3
 
 Alle Berater gleichzeitig.
 
-### Phase 4
+#### Phase 4
 
 Kael selbst.
 
-### Phase 5
+#### Phase 5
 
 Gravity Lapse.
 
 ---
 
-### Cooldowns
+#### Cooldowns
 
-#### Erster Einsatz
+##### Erster Einsatz
 
 ```text
 Phase 3
@@ -692,7 +692,7 @@ Phase 3
 
 Härtester DPS Check.
 
-#### Zweiter Einsatz
+##### Zweiter Einsatz
 
 ```text
 Phase 4 oder 5
@@ -702,9 +702,9 @@ auf Kael.
 
 ---
 
-### Achtung
+#### Achtung
 
-#### Staff of Disintegration
+##### Staff of Disintegration
 
 Looten.
 
@@ -712,7 +712,7 @@ Wichtig für Caster.
 
 ---
 
-#### Thaladred
+##### Thaladred
 
 Fixiert Spieler.
 
@@ -722,7 +722,7 @@ Kiten
 
 ---
 
-#### Capernian
+##### Capernian
 
 Conflagration.
 
@@ -732,7 +732,7 @@ Interrupt wenn möglich
 
 ---
 
-#### Gravity Lapse
+##### Gravity Lapse
 
 - Schweben
 - Kugeln ausweichen
@@ -740,13 +740,13 @@ Interrupt wenn möglich
 
 ---
 
-# 🔥 Heroic Dungeon Guide
+## 🔥 Heroic Dungeon Guide
 
 ---
 
-# Hellfire Ramparts
+## Hellfire Ramparts
 
-## Schwierigkeit
+### Schwierigkeit
 
 ```text
 Einfach
@@ -754,9 +754,9 @@ Einfach
 
 ---
 
-## Gargolmar
+### Gargolmar
 
-### Priorität
+#### Priorität
 
 1. Heiler Add
 2. Restliche Adds
@@ -764,41 +764,41 @@ Einfach
 
 ---
 
-## Omor
+### Omor
 
-### Achtung
+#### Achtung
 
-#### Treacherous Aura
+##### Treacherous Aura
 
 Abstand halten.
 
-#### Felhounds
+##### Felhounds
 
 Schnell töten.
 
 ---
 
-## Vazruden & Nazan
+### Vazruden & Nazan
 
-### Phase 1
+#### Phase 1
 
 Vazruden.
 
-### Phase 2
+#### Phase 2
 
 Nazan landet.
 
-### Achtung
+#### Achtung
 
-#### Fire Patch
+##### Fire Patch
 
 Rauslaufen.
 
 ---
 
-# Blood Furnace
+## Blood Furnace
 
-## Schwierigkeit
+### Schwierigkeit
 
 ```text
 Einfach bis Mittel
@@ -806,9 +806,9 @@ Einfach bis Mittel
 
 ---
 
-## The Maker
+### The Maker
 
-### Achtung
+#### Achtung
 
 Mind Control.
 
@@ -816,7 +816,7 @@ Nicht angreifen wenn kontrolliert.
 
 ---
 
-## Broggok
+### Broggok
 
 ### Rolle
 
@@ -826,11 +826,11 @@ Add Wellen priorisieren.
 
 ---
 
-## Keli'dan
+### Keli'dan
 
-### Achtung
+#### Achtung
 
-#### Burning Nova
+##### Burning Nova
 
 Wenn Channel startet:
 
@@ -840,9 +840,9 @@ SOFORT raus
 
 ---
 
-# Shattered Halls
+## Shattered Halls
 
-## Schwierigkeit
+### Schwierigkeit
 
 ```text
 Hoch
@@ -850,9 +850,9 @@ Hoch
 
 ---
 
-## Trash
+### Trash
 
-### Wichtig
+#### Wichtig
 
 Scout sofort töten.
 
@@ -864,9 +864,9 @@ Halbe Instanz kommt
 
 ---
 
-## Nethekurse
+### Nethekurse
 
-### Achtung
+#### Achtung
 
 Shadow Sear.
 
@@ -874,9 +874,9 @@ Abstand halten.
 
 ---
 
-## O'mrogg
+### O'mrogg
 
-### Achtung
+#### Achtung
 
 Aggro Wechsel.
 
@@ -884,9 +884,9 @@ Nicht blind weitercasten.
 
 ---
 
-## Kargath Bladefist
+### Kargath Bladefist
 
-### Achtung
+#### Achtung
 
 Blade Dance.
 
@@ -896,9 +896,9 @@ Max Range
 
 ---
 
-# Slave Pens
+## Slave Pens
 
-## Schwierigkeit
+### Schwierigkeit
 
 ```text
 Mittel
@@ -906,9 +906,9 @@ Mittel
 
 ---
 
-## Mennu
+### Mennu
 
-### Priorität
+#### Priorität
 
 Totems töten.
 
@@ -920,9 +920,9 @@ Healing Totem
 
 ---
 
-## Rokmar
+### Rokmar
 
-### Achtung
+#### Achtung
 
 Grievous Wound.
 
@@ -930,9 +930,9 @@ Heiler müssen Ziel vollheilen.
 
 ---
 
-## Quagmirran
+### Quagmirran
 
-### Achtung
+#### Achtung
 
 Poison Volley.
 
@@ -940,9 +940,9 @@ Nicht vor Boss stehen.
 
 ---
 
-# Underbog
+## Underbog
 
-## Schwierigkeit
+### Schwierigkeit
 
 ```text
 Mittel
@@ -950,17 +950,17 @@ Mittel
 
 ---
 
-## Hungarfen
+### Hungarfen
 
-### Achtung
+#### Achtung
 
 Mushrooms meiden.
 
 ---
 
-## Ghaz'an
+### Ghaz'an
 
-### Achtung
+#### Achtung
 
 Frontal Cone.
 
@@ -968,9 +968,9 @@ Nie vor Boss.
 
 ---
 
-## Musel'ek
+### Musel'ek
 
-### Achtung
+#### Achtung
 
 Fear.
 
@@ -978,9 +978,9 @@ Tremor Totem.
 
 ---
 
-## Black Stalker
+### Black Stalker
 
-### Achtung
+#### Achtung
 
 Chain Lightning.
 
@@ -988,9 +988,9 @@ Spread halten.
 
 ---
 
-# Steamvault
+## Steamvault
 
-## Schwierigkeit
+### Schwierigkeit
 
 ```text
 Hoch
@@ -998,25 +998,25 @@ Hoch
 
 ---
 
-## Hydromancer Thespia
+### Hydromancer Thespia
 
-### Priorität
+#### Priorität
 
 Elementals töten.
 
 ---
 
-## Steamrigger
+### Steamrigger
 
-### Priorität
+#### Priorität
 
 Adds sofort töten.
 
 ---
 
-## Kalithresh
+### Kalithresh
 
-### Wichtig
+#### Wichtig
 
 Naga Distiller zerstören.
 
@@ -1028,9 +1028,9 @@ sonst Boss Buff.
 
 ---
 
-# Mana Tombs
+## Mana Tombs
 
-## Schwierigkeit
+### Schwierigkeit
 
 ```text
 Mittel-Hoch
@@ -1038,9 +1038,9 @@ Mittel-Hoch
 
 ---
 
-## Pandemonius
+### Pandemonius
 
-### Dark Shell
+#### Dark Shell
 
 Wenn aktiv:
 
@@ -1050,9 +1050,9 @@ STOP DPS
 
 ---
 
-## Tavarok
+### Tavarok
 
-### Achtung
+#### Achtung
 
 Crystal Prison.
 
@@ -1060,9 +1060,9 @@ Earthquake meiden.
 
 ---
 
-## Nexus-Prince Shaffar
+### Nexus-Prince Shaffar
 
-### Priorität
+#### Priorität
 
 Beacons töten.
 
@@ -1070,9 +1070,9 @@ Dann Boss.
 
 ---
 
-# Auchenai Crypts
+## Auchenai Crypts
 
-## Schwierigkeit
+### Schwierigkeit
 
 ```text
 Mittel
@@ -1080,9 +1080,9 @@ Mittel
 
 ---
 
-## Shirrak
+### Shirrak
 
-### Wichtig
+#### Wichtig
 
 ```text
 Max Range
@@ -1092,9 +1092,9 @@ stehen.
 
 ---
 
-## Maladaar
+### Maladaar
 
-### Priorität
+#### Priorität
 
 Clone töten.
 
@@ -1102,9 +1102,9 @@ Dann Boss.
 
 ---
 
-# Sethekk Halls
+## Sethekk Halls
 
-## Schwierigkeit
+### Schwierigkeit
 
 ```text
 Mittel-Hoch
@@ -1112,7 +1112,7 @@ Mittel-Hoch
 
 ---
 
-## Darkweaver Syth
+### Darkweaver Syth
 
 Adds bei:
 
@@ -1124,9 +1124,9 @@ AOE nutzen.
 
 ---
 
-## Talon King Ikiss
+### Talon King Ikiss
 
-### Arcane Explosion
+#### Arcane Explosion
 
 Blink zur Mitte.
 
@@ -1136,9 +1136,9 @@ Hinter Säule
 
 ---
 
-# Shadow Labyrinth
+## Shadow Labyrinth
 
-## Schwierigkeit
+### Schwierigkeit
 
 ```text
 Hoch
@@ -1146,7 +1146,7 @@ Hoch
 
 ---
 
-## Hellmaw
+### Hellmaw
 
 Fear.
 
@@ -1156,7 +1156,7 @@ Tremor Totem
 
 ---
 
-## Blackheart
+### Blackheart
 
 Incite Chaos.
 
@@ -1166,9 +1166,9 @@ Nicht vermeidbar.
 
 ---
 
-## Vorpil
+### Vorpil
 
-### Achtung
+#### Achtung
 
 Rain of Fire.
 
@@ -1176,21 +1176,21 @@ Voidwalker Adds töten.
 
 ---
 
-## Murmur
+### Murmur
 
-### Sonic Boom
+#### Sonic Boom
 
 Ausweichen.
 
-### Murmur's Touch
+#### Murmur's Touch
 
 Von Gruppe entfernen.
 
 ---
 
-# Old Hillsbrad
+## Old Hillsbrad
 
-## Schwierigkeit
+### Schwierigkeit
 
 ```text
 Mittel
@@ -1198,19 +1198,19 @@ Mittel
 
 ---
 
-## Lieutenant Drake
+### Lieutenant Drake
 
 Tank & Spank.
 
 ---
 
-## Captain Skarloc
+### Captain Skarloc
 
 Consecration meiden.
 
 ---
 
-## Epoch Hunter
+### Epoch Hunter
 
 Frontal Attacken meiden.
 
@@ -1218,9 +1218,9 @@ Adds cleaven.
 
 ---
 
-# Black Morass
+## Black Morass
 
-## Schwierigkeit
+### Schwierigkeit
 
 ```text
 Hoch
@@ -1228,19 +1228,19 @@ Hoch
 
 ---
 
-## Chrono Lord Deja
+### Chrono Lord Deja
 
 Schnell bursten.
 
 ---
 
-## Temporus
+### Temporus
 
 Burn Fight.
 
 ---
 
-## Aeonus
+### Aeonus
 
 Event Boss.
 
@@ -1248,9 +1248,9 @@ Max DPS.
 
 ---
 
-# Mechanar
+## Mechanar
 
-## Schwierigkeit
+### Schwierigkeit
 
 ```text
 Mittel
@@ -1258,9 +1258,9 @@ Mittel
 
 ---
 
-## Capacitus
+### Capacitus
 
-### Shield aktiv
+#### Shield aktiv
 
 ```text
 STOP CASTS
@@ -1268,21 +1268,21 @@ STOP CASTS
 
 ---
 
-## Sepethrea
+### Sepethrea
 
 Infernos kiten.
 
 ---
 
-## Pathaleon
+### Pathaleon
 
 Mind Control beachten.
 
 ---
 
-# Botanica
+## Botanica
 
-## Schwierigkeit
+### Schwierigkeit
 
 ```text
 Mittel
@@ -1290,19 +1290,19 @@ Mittel
 
 ---
 
-## Sarannis
+### Sarannis
 
 Adds priorisieren.
 
 ---
 
-## Freywinn
+### Freywinn
 
 Seedlings töten.
 
 ---
 
-## Thorngrin
+### Thorngrin
 
 Sacrifice.
 
@@ -1310,7 +1310,7 @@ Burn.
 
 ---
 
-## Laj
+### Laj
 
 Teleport.
 
@@ -1318,7 +1318,7 @@ Aggro beachten.
 
 ---
 
-## Warp Splinter
+### Warp Splinter
 
 Treants töten.
 
@@ -1328,7 +1328,7 @@ Dann Boss.
 
 # Arcatraz
 
-## Schwierigkeit
+### Schwierigkeit
 
 ```text
 Sehr Hoch
@@ -1336,13 +1336,13 @@ Sehr Hoch
 
 ---
 
-## Zereketh
+### Zereketh
 
 Void Zones meiden.
 
 ---
 
-## Dalliah
+### Dalliah
 
 Whirlwind.
 
@@ -1350,7 +1350,7 @@ Abstand.
 
 ---
 
-## Soccothrates
+### Soccothrates
 
 Charge.
 
@@ -1358,7 +1358,7 @@ Felfire meiden.
 
 ---
 
-## Skyriss
+### Skyriss
 
 Klone bei:
 
@@ -1373,9 +1373,9 @@ Klone > Boss
 
 ---
 
-# ⚡ Elemental Shaman Macros
+## ⚡ Elemental Shaman Macros
 
-## Lightning Bolt
+### Lightning Bolt
 
 ```lua
 #showtooltip Lightning Bolt
@@ -1385,7 +1385,7 @@ Klone > Boss
 
 ---
 
-## Elemental Mastery Burst
+### Elemental Mastery Burst
 
 ```lua
 #showtooltip Chain Lightning
@@ -1396,7 +1396,7 @@ Klone > Boss
 
 ---
 
-## Earth Shock Interrupt
+### Earth Shock Interrupt
 
 ```lua
 #showtooltip Earth Shock
@@ -1406,7 +1406,7 @@ Klone > Boss
 
 ---
 
-## Bloodlust Burst
+### Bloodlust Burst
 
 ```lua
 #showtooltip Bloodlust
@@ -1417,7 +1417,7 @@ Klone > Boss
 
 ---
 
-## Caster Totem Set
+### Caster Totem Set
 
 ```lua
 #showtooltip Totem of Wrath
@@ -1426,7 +1426,7 @@ Klone > Boss
 
 ---
 
-## Melee Totem Set
+### Melee Totem Set
 
 ```lua
 #showtooltip Strength of Earth Totem
@@ -1435,28 +1435,28 @@ Klone > Boss
 
 ---
 
-## Hunter + Druiden Totem Set
+### Hunter + Druiden Totem Set
 
 ```lua
 #showtooltip Strength of Earth Totem
 /castsequence reset=6 Strength of Earth Totem, Totem of Wrath, Mana Spring Totem, Grace of Air Totem
 ```
 
-# 🛡️ Retribution Paladin
+## 🛡️ Retribution Paladin
 
-## PvE Guide (Level 70)
+### PvE Guide (Level 70)
 
 ---
 
-# Stat Prioritäten
+## Stat Prioritäten
 
-## Hit Cap
+### Hit Cap
 
-### Raid Bosses
+#### Raid Bosses
 
 - 9% Hit
 
-### Danach
+#### Danach
 
 1. Strength
 2. Weapon Damage
@@ -1466,15 +1466,15 @@ Klone > Boss
 
 ---
 
-# Attribute Priorität
+## Attribute Priorität
 
-## Phase 1
+### Phase 1
 
 ```text
 Hit > Strength > Crit > AP
 ```
 
-## Phase 2+
+### Phase 2+
 
 ```text
 Hit > Strength > Expertise > Crit > Haste
@@ -1482,9 +1482,9 @@ Hit > Strength > Expertise > Crit > Haste
 
 ---
 
-# Seal Twisting Guide
+## Seal Twisting Guide
 
-## Was ist Seal Twisting?
+### Was ist Seal Twisting?
 
 Seal Twisting ist die wichtigste DPS-Technik eines Retribution Paladins in TBC.
 
@@ -1492,15 +1492,15 @@ Dabei nutzt du das kurze interne Fenster zwischen zwei Seals, um bei einem einzi
 
 ---
 
-## Standard Twist
+### Standard Twist
 
-### Basis
+#### Basis
 
 ```text
 Seal of Command
 ```
 
-### Twist
+#### Twist
 
 Kurz vor dem Waffenschwung:
 
@@ -1510,7 +1510,7 @@ Seal of Righteousness
 
 ---
 
-## Horde Variante
+### Horde Variante
 
 (Historisch mit Seal of Blood)
 
@@ -1522,7 +1522,7 @@ Seal of Blood kurz vor Swing
 
 ---
 
-## Alliance Variante
+### Alliance Variante
 
 Da du Allianz spielst:
 
@@ -1534,9 +1534,9 @@ Seal of Righteousness
 
 ---
 
-# Swing Timer
+## Swing Timer
 
-## Pflicht Addons
+### Pflicht Addons
 
 - WeaponSwingTimer
 - Quartz
@@ -1544,9 +1544,9 @@ Seal of Righteousness
 
 ---
 
-## Timing
+### Timing
 
-### Perfekter Twist
+#### Perfekter Twist
 
 ```text
 0.3 - 0.4 Sekunden
@@ -1555,7 +1555,7 @@ vor dem Autoattack
 
 ---
 
-## Zu früh
+### Zu früh
 
 ```text
 DPS Verlust
@@ -1563,7 +1563,7 @@ DPS Verlust
 
 ---
 
-## Zu spät
+### Zu spät
 
 ```text
 Twist verpasst
@@ -1571,7 +1571,7 @@ Twist verpasst
 
 ---
 
-# Beispiel
+## Beispiel
 
 ```text
 Autoattack läuft
@@ -1595,9 +1595,9 @@ Zurück zu Seal of Command
 
 ---
 
-# Rotation
+## Rotation
 
-## Solo
+### Solo
 
 ```text
 Seal of Command
@@ -1609,7 +1609,7 @@ Twist
 
 ---
 
-## Dungeon
+### Dungeon
 
 ```text
 Judgement
@@ -1620,7 +1620,7 @@ Consecration
 
 ---
 
-## Raid
+### Raid
 
 Priorität:
 
@@ -1632,9 +1632,9 @@ Priorität:
 
 ---
 
-# Cooldowns
+## Cooldowns
 
-## Avenging Wrath
+### Avenging Wrath
 
 Nutzen:
 
@@ -1650,7 +1650,7 @@ Bloodlust Phase
 
 ---
 
-## Trinkets
+### Trinkets
 
 Immer stacken mit:
 
@@ -1660,7 +1660,7 @@ Avenging Wrath
 
 ---
 
-## Haste Potion
+### Haste Potion
 
 Zusammen mit:
 
@@ -1672,9 +1672,9 @@ DST Proc
 
 ---
 
-# Auren
+## Auren
 
-## Solo
+### Solo
 
 ```text
 Retribution Aura
@@ -1682,7 +1682,7 @@ Retribution Aura
 
 ---
 
-## Dungeon
+### Dungeon
 
 ```text
 Sanctity Aura
@@ -1690,7 +1690,7 @@ Sanctity Aura
 
 ---
 
-## Raid
+### Raid
 
 ```text
 Sanctity Aura
@@ -1698,7 +1698,7 @@ Sanctity Aura
 
 ---
 
-## Situativ
+### Situativ
 
 ### Tank Schaden
 
@@ -1706,7 +1706,7 @@ Sanctity Aura
 Devotion Aura
 ```
 
-### Magieschaden
+#### Magieschaden
 
 ```text
 Shadow Resistance Aura
@@ -1720,11 +1720,11 @@ Fire Resistance Aura
 
 ---
 
-# Blessings
+## Blessings
 
-## Caster Gruppe
+### Caster Gruppe
 
-### Standard
+#### Standard
 
 ```text
 Blessing of Wisdom
@@ -1732,7 +1732,7 @@ Blessing of Wisdom
 
 ---
 
-### Alternative
+#### Alternative
 
 ```text
 Blessing of Salvation
@@ -1740,9 +1740,9 @@ Blessing of Salvation
 
 ---
 
-# Melee Gruppe
+## Melee Gruppe
 
-### Standard
+#### Standard
 
 ```text
 Blessing of Might
@@ -1750,21 +1750,21 @@ Blessing of Might
 
 ---
 
-# Druiden + Hunter
+## Druiden + Hunter
 
-## Feral
+### Feral
 
 ```text
 Blessing of Might
 ```
 
-## Balance
+### Balance
 
 ```text
 Blessing of Wisdom
 ```
 
-## Hunter
+### Hunter
 
 ```text
 Blessing of Might
@@ -1772,20 +1772,20 @@ Blessing of Might
 
 ---
 
-# Raid Guides
+## Raid Guides
 
-# 🐉 Gruul's Lair
+## 🐉 Gruul's Lair
 
 ---
 
-## High King Maulgar
+### High King Maulgar
 
-### Rolle
+#### Rolle
 
 - Adds DPS
 - Danach Maulgar
 
-### Cooldowns
+#### Cooldowns
 
 Nicht auf erste Adds verschwenden.
 
@@ -1797,29 +1797,29 @@ Maulgar
 
 ---
 
-### Achtung
+#### Achtung
 
-#### Whirlwind
+##### Whirlwind
 
 Nicht stehen bleiben.
 
-#### Aggro
+##### Aggro
 
 Burst kontrollieren.
 
 ---
 
-## Gruul
+### Gruul
 
-### Rolle
+#### Rolle
 
 Purer DPS Fight.
 
 ---
 
-### Cooldowns
+#### Cooldowns
 
-#### Pull
+##### Pull
 
 ```text
 Avenging Wrath
@@ -1827,45 +1827,45 @@ Avenging Wrath
 
 ---
 
-#### Bloodlust
+##### Bloodlust
 
 Trinkets stacken.
 
 ---
 
-### Achtung
+#### Achtung
 
-#### Ground Slam
+##### Ground Slam
 
 Position merken.
 
 ---
 
-#### Shatter
+##### Shatter
 
 Sofort Abstand.
 
 ---
 
-# ⛓️ Magtheridon's Lair
+## ⛓️ Magtheridon's Lair
 
 ---
 
-## Magtheridon
+### Magtheridon
 
-### Phase 1
+#### Phase 1
 
 Adds kontrollieren.
 
 ---
 
-### Phase 2
+#### Phase 2
 
 Volle DPS.
 
 ---
 
-### Cooldowns
+#### Cooldowns
 
 Wenn aktiv:
 
@@ -1875,119 +1875,119 @@ Magtheridon + Bloodlust
 
 ---
 
-### Achtung
+#### Achtung
 
-#### Blast Nova
+##### Blast Nova
 
 Cube Spieler unterstützen.
 
 ---
 
-#### Debris
+##### Debris
 
 Bewegen.
 
 ---
 
-# 🌊 SSC
+## 🌊 SSC
 
 ---
 
-## Hydross
+### Hydross
 
-### Cooldowns
+#### Cooldowns
 
 Nach Transition.
 
 ---
 
-### Achtung
+#### Achtung
 
 Aggro Reset.
 
 ---
 
-## Lurker Below
+### Lurker Below
 
-### Achtung
+#### Achtung
 
-#### Spout
+##### Spout
 
 Immer Bewegung.
 
 ---
 
-### Cooldowns
+#### Cooldowns
 
 Nach erstem Spout.
 
 ---
 
-## Leotheras
+### Leotheras
 
-### Achtung
+#### Achtung
 
-#### Whirlwind
+##### Whirlwind
 
 Kein Melee Kontakt.
 
 ---
 
-### Cooldowns
+#### Cooldowns
 
 Human Form.
 
 ---
 
-## Karathress
+### Karathress
 
-### Priorität
+#### Priorität
 
 Adds.
 
 ---
 
-### Achtung
+#### Achtung
 
 Totems töten.
 
 ---
 
-## Morogrim
+### Morogrim
 
-### Rolle
+#### Rolle
 
 Murloc Support.
 
 ---
 
-### Cooldowns
+#### Cooldowns
 
 Nach erster Murloc Welle.
 
 ---
 
-## Lady Vashj
+### Lady Vashj
 
-### Phase 1
+#### Phase 1
 
 Kontrollierte DPS.
 
 ---
 
-### Phase 2
+#### Phase 2
 
 Adds.
 
 ---
 
-### Phase 3
+#### Phase 3
 
 Boss Burn.
 
 ---
 
-### Cooldowns
+#### Cooldowns
 
 ```text
 Phase 3
@@ -2002,61 +2002,61 @@ Trinkets
 
 ---
 
-# 🌌 Tempest Keep
+## 🌌 Tempest Keep
 
 ---
 
-## Al'ar
+### Al'ar
 
-### Achtung
+#### Achtung
 
 Meteor.
 
 ---
 
-### Cooldowns
+#### Cooldowns
 
 Phase 2.
 
 ---
 
-## Void Reaver
+### Void Reaver
 
-### Perfekter Ret Fight
+#### Perfekter Ret Fight
 
 100% Uptime.
 
 ---
 
-### Cooldowns
+#### Cooldowns
 
 Pull.
 
 ---
 
-## Solarian
+### Solarian
 
-### Achtung
+#### Achtung
 
 Debuff rauslaufen.
 
 ---
 
-## Kael'thas
+### Kael'thas
 
-### Phase 2
+#### Phase 2
 
 Waffen.
 
 ---
 
-### Phase 3
+#### Phase 3
 
 Härtester DPS Check.
 
 ---
 
-### Cooldowns
+#### Cooldowns
 
 Erster Einsatz:
 
@@ -2072,33 +2072,33 @@ Kael
 
 ---
 
-### Achtung
+#### Achtung
 
-#### Thaladred
+##### Thaladred
 
 Kiten.
 
 ---
 
-#### Capernian
+##### Capernian
 
 Nicht im Feuer stehen.
 
 ---
 
-#### Gravity Lapse
+##### Gravity Lapse
 
 Weiter DPS.
 
 ---
 
-# Gear Progression
+## Gear Progression
 
 ---
 
-# Phase 1
+## Phase 1
 
-## Karazhan
+### Karazhan
 
 - Lionheart Champion
 - Hellreaver
@@ -2106,16 +2106,16 @@ Weiter DPS.
 
 ---
 
-## Trinkets
+### Trinkets
 
 - Bloodlust Brooch
 - Abacus of Violent Odds
 
 ---
 
-# Phase 2
+## Phase 2
 
-## SSC/TK
+### SSC/TK
 
 - Gorehowl
 - Cataclysm Edge
@@ -2123,23 +2123,23 @@ Weiter DPS.
 
 ---
 
-# Phase 3
+## Phase 3
 
-## Hyjal
+### Hyjal
 
 - T6 Set
 
 ---
 
-## Black Temple
+### Black Temple
 
 - Madness of the Betrayer
 
 ---
 
-# Phase 5
+## Phase 5
 
-## Sunwell
+### Sunwell
 
 - Apolyon
 - Brutallus Gear
@@ -2147,9 +2147,9 @@ Weiter DPS.
 
 ---
 
-# Consumables
+## Consumables
 
-## Food
+### Food
 
 ```text
 Roasted Clefthoof
@@ -2157,7 +2157,7 @@ Roasted Clefthoof
 
 ---
 
-## Flask
+### Flask
 
 ```text
 Flask of Relentless Assault
@@ -2165,7 +2165,7 @@ Flask of Relentless Assault
 
 ---
 
-## Potions
+### Potions
 
 ```text
 Haste Potion
@@ -2177,7 +2177,7 @@ Super Mana Potion
 
 ---
 
-## Scrolls
+### Scrolls
 
 ```text
 Strength V
@@ -2185,9 +2185,9 @@ Strength V
 
 ---
 
-# Macros
+### Macros
 
-## Crusader Strike
+### Crusader Strike
 
 ```lua
 #showtooltip Crusader Strike
@@ -2197,7 +2197,7 @@ Strength V
 
 ---
 
-## Judgement
+### Judgement
 
 ```lua
 #showtooltip Judgement
@@ -2207,7 +2207,7 @@ Strength V
 
 ---
 
-## Avenging Wrath Burst
+### Avenging Wrath Burst
 
 ```lua
 #showtooltip Avenging Wrath
@@ -2218,7 +2218,7 @@ Strength V
 
 ---
 
-## Seal Twist Helper
+### Seal Twist Helper
 
 ```lua
 #showtooltip Seal of Righteousness
@@ -2228,9 +2228,9 @@ Strength V
 
 ---
 
-# Addons
+## Addons
 
-## Pflicht
+### Pflicht
 
 - WeakAuras
 - Quartz
@@ -2240,7 +2240,7 @@ Strength V
 
 ---
 
-## Optional
+### Optional
 
 - OmniCC
 - Leatrix Plus
@@ -2248,9 +2248,9 @@ Strength V
 
 ---
 
-# Goldene Regeln
+## Goldene Regeln
 
-## Retribution
+### Retribution
 
 - Niemals ohne Swing Timer spielen
 - Seal Twisting üben
@@ -2261,7 +2261,7 @@ Strength V
 
 ---
 
-## Endgame Kurzfassung
+### Endgame Kurzfassung
 
 ```text
 Hit Cap erreichen
