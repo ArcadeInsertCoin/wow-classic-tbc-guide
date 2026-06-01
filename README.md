@@ -34,7 +34,7 @@
 
 #### Stat Prioritäten
 
-##### Raid Setup
+#### Raid Setup
 
 1. Spell Hit
 2. Spell Damage
