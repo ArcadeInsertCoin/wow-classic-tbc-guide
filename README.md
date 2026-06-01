@@ -95,7 +95,7 @@ Nicht verschwenden auf:
 - Trash
 - Adds die sofort sterben
 
-#### Bloodlust
+#### Heroism
 
 Optimal:
 
