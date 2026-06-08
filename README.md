@@ -603,6 +603,195 @@ auf Kael.
 
 </details>
 
+## 🧩 Addons
+
+### Pflicht
+
+- WeakAuras
+- Quartz
+- DBM
+- Details!
+- OmniCC
+- Leatrix Plus
+
+### Für Profis
+
+- SpellAnnouncer
+- MikScrollingBattleText
+- Nova Instance Tracker
+- ItemRack
+- Clique (für Resto Offspec)
+
+### Speziell für Elemental
+
+- TotemTimers
+- WeakAura für Lightning Overload
+- WeakAura für Bloodlust Timer
+- WeakAura für Trinket Procs
+
+### Speziell für Resto Offspec
+
+- Grid2
+- HealBot
+- VuhDo
+
+## 🗡️ Gear Progression
+
+### Pre-Raid BIS
+
+- Spellstrike Set
+- Frozen Shadoweave Set
+- Totem of the Void
+- Icon of the Silver Crescent
+
+### Phase 1 (Karazhan / Gruul / Magtheridon)
+
+- Cyclone Set (T4)
+- Nathrezim Mindblade
+- The Lightning Capacitor
+- Icon of the Silver Crescent
+
+### Phase 2 (SSC / TK)
+
+- T5 Cyclone Set
+- Netherstrike Bracers
+- Worldfire Chestguard
+- Quagmirran's Eye
+- Scarab of the Infinite Cycle
+
+### Phase 3 (Hyjal / Black Temple)
+
+- T6 Skyshatter
+- Skull of Gul'dan
+- Hex Shrunken Head
+- Band of the Eternal Sage
+
+### Phase 5 (Sunwell Plateau)
+
+- Skyshatter Regalia
+- Shroud of the Highborne
+- Loop of Forged Power
+- Ring of Omnipotence
+- Skull of Gul'dan
+- Flare of the Heavens
+
+### Dein aktueller Upgrade Fokus
+
+1. Beine
+2. Halskette
+3. Violet Signet ersetzen
+4. T5 4er Bonus
+5. T6 Vorbereitung
+
+## 🌊 Restoration Gear Progression
+
+### Wichtigste Stats
+
+1. Healing Power
+2. MP5
+3. Intellect
+4. Haste
+
+### Top Relics
+
+- Totem of the Healing Rains
+- Totem of Living Water
+
+### Top Trinkets
+
+- Lower City Prayerbook
+- Essence of the Martyr
+- Earring of Soulful Meditation
+- Scarab of the Infinite Cycle
+
+### T5 Ziele
+
+- Cyclone Raiment
+- Earthsoul Leggings
+- Tidefury Upgrades
+
+### T6 Ziele
+
+- Skyshatter Raiment
+- Ring of Ancient Knowledge
+- Ancient Aegis of the Sunwell
+
+## 🍖 Consumables
+
+### Flask
+
+- Flask of Blinding Light
+
+### Food
+
+- Blackened Basilisk
+
+### Weapon Buff
+
+- Superior Wizard Oil
+
+### Potions
+
+- Destruction Potion
+- Super Mana Potion
+
+### Dark Runes
+
+- Dark Rune
+- Demonic Rune
+
+### Scrolls
+
+- Scroll of Spirit V
+- Scroll of Intellect V
+
+### Situativ
+
+- Major Fire Protection Potion
+- Major Shadow Protection Potion
+- Major Nature Protection Potion
+
+### Vor Pull
+
+1. Flask
+2. Food Buff
+3. Wizard Oil
+4. Lightning Shield
+5. Mana Spring aktiv
+
+## ✅ Golden Rules
+
+### DPS
+
+- Lightning Bolt ist dein Hauptschaden.
+- Nicht unnötig bewegen.
+- ABC = Always Be Casting.
+
+### Totems
+
+- Totems niemals vergessen.
+- Totems nur neu setzen wenn nötig.
+- Gruppe beobachten.
+
+### Cooldowns
+
+- Elemental Mastery mit Trinkets stacken.
+- Bloodlust nach Raid Ansage.
+- Cooldowns niemals auf Trash verschwenden.
+
+### Mana
+
+- Dark Rune nutzen.
+- Mana Potion früh nutzen.
+- Mana Tide für Gruppe planen.
+
+### Positionierung
+
+- Max Range spielen.
+- Cave In sofort verlassen.
+- Arcane Orb sofort ausweichen.
+- Immer Totem Range beachten.
+
 ---
 
 <details>
@@ -1042,34 +1231,37 @@ Kael
 - Brutallus Gear
 - Full BIS
 
-### 🍖 Consumables
+## 🍖 Consumables
 
-#### Food
+### Flask
 
-```text
-Roasted Clefthoof
-```
+- Flask of Relentless Assault
 
-#### Flask
+### Food
 
-```text
-Flask of Relentless Assault
-```
+- Roasted Clefthoof
 
-#### Potions
+### Potions
 
-```text
-Haste Potion
-```
+- Haste Potion
+- Super Mana Potion
 
-```text
-Super Mana Potion
-```
+### Scrolls
 
-#### Scrolls
+- Scroll of Strength V
+- Scroll of Agility V
 
-```text
-Strength V
+### Weapon
+
+- Adamantite Weightstone
+
+### Vor Pull
+
+1. Flask
+2. Food
+3. Weightstone
+4. Seal of Command
+5. Swing Timer prüfen
 ```
 
 ### ⌨️ Macros
